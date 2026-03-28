@@ -4,11 +4,8 @@
     <meta charset="utf-8" />
     <title>WeRevive</title>
     <script>
-      var path = window.location.pathname;
-      var search = window.location.search;
-      var hash = window.location.hash;
-      var redirectUrl = window.location.origin + '/?redirect=' + encodeURIComponent(path + search + hash);
-      window.location.replace(redirectUrl);
+      sessionStorage.setItem('redirect', window.location.pathname + window.location.search + window.location.hash);
+      window.location.replace('/');
     </script>
   </head>
   <body></body>
