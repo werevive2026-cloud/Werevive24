@@ -775,6 +775,677 @@ The doctor and QRT are steps 6 and 7. The AED is step 3. Without step 3, steps 6
 Having an in-house doctor without a floor-accessible AED is like having a fire safety officer without fire extinguishers on every floor. The expertise is there. The equipment is not where it needs to be.
 
 WeRevive provides the equipment — device, training, maintenance — on a monthly subscription. Your doctor and QRT provide the expertise. Together, your office has a complete cardiac emergency response system.
+`},{slug:"ventricular-fibrillation-the-rhythm-that-kills",title:"Ventricular Fibrillation: The Specific Rhythm Behind Most Cardiac Arrest Deaths",excerpt:"Most people think cardiac arrest means the heart simply stops. It does not. In the majority of cases, the heart is doing something far more dangerous — and understanding what it is explains why an AED is the only intervention that can reverse it.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## The Heart Is Not Stopping. It Is Malfunctioning.
+
+When someone collapses from sudden cardiac arrest, the instinct is to assume the heart has simply stopped beating. In reality, in approximately 85–90% of cases, the heart is doing something far more chaotic — and far more dangerous.
+
+It is fibrillating.
+
+Ventricular fibrillation, or VF, is a condition in which the electrical system of the heart breaks down completely. Instead of the organised, rhythmic signals that coordinate each heartbeat, the ventricles — the heart's two lower chambers responsible for pumping blood — receive hundreds of erratic, uncoordinated electrical impulses every minute.
+
+The result is not a stopped heart. It is a heart that quivers. Rapidly, uselessly, without any mechanical pumping action. No blood reaches the brain. No blood reaches the lungs. The body is in effective cardiac standstill even though the heart muscle is still receiving signals.
+
+## Why VF Is The Most Critical Rhythm To Understand
+
+VF matters for one reason above all others: it is the only shockable rhythm in cardiac arrest.
+
+The human heart, under normal circumstances, runs on a precise electrical sequence. The sinoatrial node fires a signal. It travels through the atrioventricular node. The ventricles contract in sequence. Blood is pumped. This cycle repeats 60–100 times per minute.
+
+VF disrupts this sequence entirely. The electrical signals become fragmented, recycling chaotically through the heart muscle. No single coordinated contraction is possible. The heart is effectively running on static.
+
+The only way to interrupt VF is to depolarise the entire heart at once — to flood every cardiac cell with an electrical current simultaneously, forcing them all to reset. This is precisely what an AED does.
+
+## The VF Window Is Closing Every Minute
+
+Here is the clinical reality that every workplace and residential society needs to understand.
+
+VF does not persist indefinitely. Left untreated, ventricular fibrillation degrades within minutes into asystole — a flatline. When the heart transitions from VF to asystole, it is no longer shockable. No AED can restart a flatline. The clinical options narrow dramatically.
+
+Research consistently shows that by the time an ambulance arrives at the scene of a typical out-of-hospital cardiac arrest in India — averaging 15–20 minutes in Delhi NCR — only 25–40% of victims still present with shockable VF. The rest have already transitioned to asystole.
+
+This is not a failure of ambulance services. It is a mathematical reality. The VF window closes in minutes, not hours.
+
+**Every minute without defibrillation during VF reduces survival probability by 7–10%.** An AED applied within 3 minutes of VF onset produces survival rates as high as 70–74%.
+
+## The Chain Is Only As Strong As Its First Link
+
+The medical community has long described cardiac arrest response as a chain of survival — a sequence of actions that must occur in order for a victim to have a realistic chance of living.
+
+The links are: recognition and emergency call, bystander CPR, early defibrillation, and advanced medical care.
+
+The third link — early defibrillation — is the one that breaks in almost every out-of-hospital cardiac arrest in India. Not because the technology does not exist. Because the technology is not present where the arrest occurs.
+
+An AED in a lobby, a gym, a reception desk, or a society clubhouse is not a precaution. It is the mechanism by which the third link in the chain of survival is made possible.
+
+## CPR Preserves The Window. The AED Closes It.
+
+A common misconception is that CPR restarts the heart. It does not. CPR circulates oxygenated blood manually, slowing the progression of brain damage and — critically — maintaining the heart in a shockable VF rhythm for longer.
+
+CPR is the bridge. The AED is the destination.
+
+Without CPR, VF degrades to asystole in 4–6 minutes. With good quality CPR, that window can be extended. But without an AED to deliver the shock, CPR alone produces survival rates under 10% in most out-of-hospital settings.
+
+The combination of immediate CPR and AED use within 3–5 minutes is the clinical gold standard. It is also, at present, almost entirely unavailable across Indian workplaces and residential communities.
+
+## What This Means For Any Organisation
+
+If 85–90% of cardiac arrests are caused by VF, and VF is fully reversible with a shock delivered within minutes, and AEDs are the only devices capable of delivering that shock — then the absence of an AED is not a gap in emergency preparedness.
+
+It is a decision that, in the event of a cardiac arrest on the premises, leaves the person with a 7–10% chance of survival rather than a 70–74% chance.
+
+That is the clinical, statistical, and ultimately ethical case for cardiac safety infrastructure in every workplace and residential community across India.
+
+The rhythm that kills is reversible. The question is whether the tool to reverse it is present when it is needed.
+`},{slug:"young-fit-indians-dying-sudden-cardiac-arrest",title:"Why Young, Fit Indians Are Dying From Sudden Cardiac Arrest — And What Is Behind The Trend",excerpt:"Cardiac arrest is not only a disease of the elderly or the unfit. A growing body of evidence — and a growing list of Indian names — shows that it strikes the young, the athletic, and the apparently healthy with alarming frequency. Here is what is driving the trend.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"6 min read",content:`
+## The Death That Shocks Everyone
+
+It follows a pattern that has become grimly familiar. A young man — often in his thirties or forties, often visibly fit, often someone who exercises regularly — collapses without warning. At a gym. On a running track. At his desk. At a family gathering.
+
+By the time help arrives, it is too late.
+
+In recent years, India has seen this story repeat with increasing frequency. The deaths of Sidharth Shukla at 40, Raju Srivastava at 58, and Puneeth Rajkumar at 46 shocked the country partly because of who these people were — and partly because none of them fit the image of a cardiac arrest victim.
+
+The assumption that cardiac arrest only claims the elderly, the overweight, or those with obvious heart disease is one of the most dangerous medical misconceptions in circulation. The data does not support it.
+
+## The Conditions That Cause Cardiac Arrest In Young People
+
+There are several primary causes of sudden cardiac arrest in young individuals, most of them undiagnosed until the event itself.
+
+**Hypertrophic Cardiomyopathy (HCM)** is the most common cause of sudden cardiac death in young athletes worldwide. The condition involves abnormal thickening of the heart muscle, which disrupts the heart's electrical system and can trigger ventricular fibrillation during physical exertion. Most people with HCM have no symptoms and no prior diagnosis.
+
+**Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC)** is a genetic condition in which the muscle tissue of the right ventricle is progressively replaced by fatty or fibrous tissue. It is associated with exercise-induced arrhythmias and is a leading cause of sudden death in athletes in Italy and other countries with mandatory screening programmes.
+
+**Long QT Syndrome and Brugada Syndrome** are channelopathies — disorders of the ion channels that regulate the heart's electrical activity. They produce no structural abnormality on a standard ECG and can remain entirely asymptomatic until they cause sudden death, often triggered by stress, fever, or physical activity.
+
+**Early-onset coronary artery disease** is increasingly prevalent among younger Indians due to a combination of genetic predisposition, dietary patterns, sedentary urban lifestyles, and high stress. Many young adults in their thirties already have significant arterial plaque that has not yet produced symptoms.
+
+## The India-Specific Risk Factors
+
+Indians are known to have a higher genetic predisposition to cardiovascular disease than most other ethnic groups — and to develop it earlier. Research published in the Indian Heart Journal and elsewhere consistently shows that Indians experience their first cardiac events roughly a decade earlier than Western populations.
+
+Several factors compound this:
+
+**The urban stress-exercise paradox.** A growing segment of urban Indians has adopted intense exercise routines — gym sessions, marathons, cycling events — without adequate cardiovascular screening. Vigorous physical exertion is a known trigger for cardiac events in individuals with underlying undiagnosed conditions.
+
+**Post-COVID cardiac effects.** Multiple peer-reviewed studies have documented that COVID-19 infection, including mild cases, can cause myocarditis — inflammation of the heart muscle — that increases arrhythmia risk for months or years after recovery. India had among the highest COVID infection rates in the world.
+
+**Sleep deprivation and chronic stress.** Both are established risk factors for cardiac arrhythmia. Both are endemic in India's urban professional population.
+
+**Under-screening.** Routine cardiac screening — stress ECG, echocardiogram, Holter monitoring — is neither standard practice nor widely accessible in India at the population level. Most people who die young from cardiac arrest had no prior diagnosis because they had no prior screening.
+
+## Why Fitness Is Not Protection
+
+This is perhaps the most counterintuitive and important point.
+
+Exercise is beneficial for cardiovascular health in the long term. But in individuals with undiagnosed structural or electrical heart conditions, intense physical exertion can be the specific trigger that initiates ventricular fibrillation.
+
+The heart of a trained athlete can sustain higher workloads — but if the underlying electrical system has an abnormality, pushing the heart harder simply creates more opportunities for that abnormality to manifest fatally.
+
+Christian Eriksen, the Danish footballer who collapsed during Euro 2020, was one of the fittest people on the planet. He survived because a defibrillator was on the pitch and used within 90 seconds. The cardiac arrest was not caused by lack of fitness. It was caused by an undiagnosed arrhythmia that manifested during peak physical exertion.
+
+## What Can Actually Be Done
+
+Individual-level solutions exist — better screening, lifestyle adjustments, genetic testing for high-risk family histories. These are important and worth pursuing.
+
+But they address only part of the problem. Undiagnosed conditions, by definition, will not be caught until they produce symptoms. And the first symptom of many of these conditions is cardiac arrest.
+
+This is why population-level cardiac safety infrastructure matters as much as individual-level screening.
+
+An AED in every gym, every corporate office, every residential society, every event venue does not prevent cardiac arrests in young people. Nothing does with certainty. What it does is ensure that when a cardiac arrest occurs — in a fit 34-year-old at a treadmill, or a 41-year-old during a board meeting — the response is not helpless waiting.
+
+The technology to restore a heart in ventricular fibrillation exists, is affordable, and requires no medical training to use. The only question is whether it is present.
+
+In India today, in almost every setting where a young person might collapse, it is not.
+`},{slug:"cpr-alone-is-not-enough-why-aed-is-the-missing-half",title:"CPR Alone Is Not Enough — Why The AED Is The Missing Half Of Every Emergency Response",excerpt:"CPR saves lives. But the numbers tell a clear story: bystander CPR alone produces survival rates under 10% in most out-of-hospital cardiac arrests. Add an AED, and that number can reach 70%. Here is the clinical reason why, and what it means for every workplace in India.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## The Misconception That Costs Lives
+
+Ask most people what to do if someone collapses from cardiac arrest, and they will say: call an ambulance and start CPR. This is correct. It is also incomplete in a way that, statistically, costs lives.
+
+CPR — cardiopulmonary resuscitation — is one of the most important emergency interventions in existence. Teaching it widely, normalising it, removing the fear around performing it: these are all genuinely important public health goals.
+
+But CPR, performed alone without defibrillation, produces survival rates of roughly 7–10% in out-of-hospital cardiac arrest settings. In India, where ambulance response times average 15–20 minutes in urban centres, those numbers may be even lower.
+
+The AED is not an upgrade on CPR. It is a fundamentally different intervention that addresses a different problem. Understanding the distinction is the clinical case for why both are necessary — and why neither alone is sufficient.
+
+## What CPR Actually Does
+
+CPR is a mechanical intervention. By applying rhythmic chest compressions, a trained bystander can manually circulate blood through the body, delivering oxygen to the brain and slowing the progression of irreversible damage.
+
+CPR does not restart the heart. It does not correct the underlying electrical malfunction that caused the cardiac arrest. It buys time.
+
+Excellent CPR — at the right depth, rate, and compression fraction — can sustain a person in a survivable state for longer than would otherwise be possible. It can maintain ventricular fibrillation in a shockable state when it would otherwise degrade to asystole. It can prevent brain death from occurring in the first few minutes.
+
+But without defibrillation, CPR alone cannot restore a normal cardiac rhythm. The heart in ventricular fibrillation will continue to fibrillate regardless of how good the compressions are.
+
+## What The AED Does That CPR Cannot
+
+An AED — automated external defibrillator — delivers a precisely calibrated electrical shock to the heart, simultaneously depolarising every cardiac cell. This interrupts the chaotic electrical cycling of ventricular fibrillation, giving the heart's natural pacemaker an opportunity to reassert a normal rhythm.
+
+It is the only intervention capable of doing this outside a hospital setting.
+
+The clinical data on what this means in practice is striking.
+
+Research examining nearly 14,000 out-of-hospital cardiac arrests found the following survival-to-discharge rates:
+
+- No intervention: approximately 7%
+- Bystander CPR only: approximately 9%
+- CPR plus AED shock before ambulance arrival: approximately 38%
+- AED shock delivered within 3 minutes of collapse: up to 74%
+
+The difference between CPR alone and CPR with an AED is not marginal. It is the difference between a roughly 1-in-10 survival chance and a roughly 4-in-10 survival chance. With early enough defibrillation, survival rates approach 3 in 4.
+
+## The Bridge And The Destination
+
+A useful way to understand the relationship between CPR and AED is through the metaphor of a bridge and a destination.
+
+CPR is the bridge. It keeps the body viable. It extends the window of survivability. It maintains the heart in a shockable state. Without it, the path to survival closes faster.
+
+The AED is the destination. It is the intervention that actually terminates the arrhythmia and restores the possibility of a normal heartbeat.
+
+You need the bridge. But the bridge leads nowhere without the destination.
+
+This is why resuscitation guidelines from the American Heart Association, the European Resuscitation Council, and the Resuscitation Council of India all specify the same protocol: call for help, start CPR immediately, and use an AED as soon as one is available. The sequence is not designed to be sequential in a slow way. The AED should be retrieved and applied while CPR continues.
+
+## The India Problem
+
+In most developed countries, the deployment of AEDs in public and semi-public spaces has dramatically improved out-of-hospital cardiac arrest survival over the past two decades. Japan's programme of deploying AEDs in public spaces beginning in 2004 contributed to a documented increase in survival rates from under 5% to over 40% in some settings.
+
+India has taken no comparable systemic action. AEDs remain rare in corporate offices, absent from most residential societies, and essentially nonexistent in the public spaces — markets, transport hubs, event venues — where cardiac arrests occur.
+
+The result is a country where CPR, even when performed correctly, operates without its essential partner. The bridge exists. The destination does not.
+
+## What Every Organisation Needs To Understand
+
+Training employees in CPR is valuable and worth doing. It is not a substitute for having an AED on the premises.
+
+The clinical arithmetic is not complicated. If cardiac arrest occurs in a building with trained CPR responders but no AED, survival probability is roughly 9%. If it occurs in a building with both CPR-trained responders and an accessible AED, survival probability is four times higher or more.
+
+The cost difference between these two outcomes — in human terms, in reputational terms, in legal terms — is immeasurable. The financial difference between providing both CPR training and an AED versus only CPR training is, in the context of any organisation's operational budget, trivial.
+
+CPR alone is not enough. It has never been enough. The AED is not an optional addition to an emergency response plan. It is the half of the response plan that determines whether the response is likely to succeed.
+`},{slug:"chain-of-survival-four-steps-cardiac-arrest",title:"The Chain Of Survival: The Four Steps That Determine Whether Someone Lives Or Dies From Cardiac Arrest",excerpt:"Every cardiac arrest response follows the same four-step sequence. Break any link and the chain fails. Understand it and you understand exactly what needs to be in place — and what is currently missing in almost every Indian workplace and residential society.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## A Framework That Has Saved Millions Of Lives
+
+In 1991, the American Heart Association introduced a concept that fundamentally changed how the medical community thinks about cardiac arrest survival. They called it the Chain of Survival.
+
+The insight was straightforward: survival from out-of-hospital cardiac arrest is not determined by any single intervention. It is determined by a sequence of four specific actions, each of which depends on the previous one. Like a chain, every link must hold.
+
+Three decades later, the Chain of Survival remains the foundational framework for cardiac emergency response worldwide. It is endorsed by the European Resuscitation Council, the Resuscitation Council of India, the World Heart Federation, and every major cardiology body globally.
+
+Understanding it is the fastest way to understand why India's out-of-hospital cardiac arrest survival rate is under 1% — and what it would take to change that.
+
+## Link One: Early Recognition And Emergency Call
+
+The chain begins the moment someone recognises that a cardiac arrest has occurred and calls for emergency services.
+
+Recognition sounds simple. In practice, it fails more often than most people expect. Cardiac arrest does not always present as a dramatic collapse. Victims sometimes gasp, twitch, or appear to be sleeping. Bystanders hesitate, unsure whether to act. Precious seconds become minutes.
+
+Early recognition requires knowing the signs: sudden collapse, unresponsiveness, absent or abnormal breathing, no pulse. It requires the confidence to act immediately rather than wait for certainty.
+
+The emergency call initiates the professional response. In India, that means dialling 112. It also means, ideally, simultaneously sending someone to retrieve the nearest AED — because by the time the ambulance arrives, the window for the third link in the chain may have already closed.
+
+## Link Two: Bystander CPR
+
+The second link is bystander CPR — chest compressions initiated by whoever is present at the scene before any professional responder arrives.
+
+The purpose of CPR at this stage is not to restart the heart. It is to maintain circulation, deliver oxygen to the brain, and buy time for the third link.
+
+Research consistently shows that bystander CPR — started immediately — doubles or triples survival rates compared to no intervention. Despite this, bystander CPR rates in India remain extremely low, estimated at under 1–2% of cardiac arrest cases. Most bystanders either do not know CPR or are too afraid to perform it.
+
+This is why CPR training in workplaces and residential communities is not just valuable — it is the specific intervention that strengthens the second link. The person who saves a life in a cardiac arrest is almost never the ambulance crew. It is the person who happened to be standing nearby.
+
+## Link Three: Early Defibrillation
+
+This is the link that fails in nearly every out-of-hospital cardiac arrest in India. It is also the link that most directly determines survival.
+
+In 85–90% of sudden cardiac arrests, the underlying rhythm is ventricular fibrillation — a chaotic, disorganised electrical pattern that prevents the heart from pumping blood. VF is fully reversible with a defibrillation shock delivered within minutes of onset.
+
+Every minute of VF without defibrillation reduces survival probability by 7–10%. After 10 minutes without a shock, survival in VF is rare.
+
+An AED is the only device capable of delivering this shock outside a hospital. It requires no medical training, analyses the heart rhythm automatically, and delivers a shock only when one is indicated.
+
+The third link does not require a doctor, a nurse, or a paramedic. It requires an AED to be present at the scene.
+
+In Japan, Singapore, the United States, and most of Western Europe, AED density in public and commercial spaces has increased dramatically over the past two decades. Each of these countries has seen measurable improvements in out-of-hospital cardiac arrest survival.
+
+India has not made this investment. The third link, in almost every out-of-hospital setting in the country, is broken.
+
+## Link Four: Advanced Cardiac Life Support
+
+The fourth link is the professional medical response — paramedics, hospital emergency teams, advanced resuscitation protocols, post-cardiac arrest care.
+
+This link is present in India. Ambulances exist. Hospitals exist. Emergency medicine has advanced considerably. What professional responders can do when they arrive — assuming the third link was completed before their arrival — is significant.
+
+The problem is sequencing. Advanced life support is the fourth link, not the first. By the time it arrives, the outcome has already been largely determined by whether links two and three held.
+
+A patient who received bystander CPR and AED defibrillation before ambulance arrival arrives at hospital with a functioning rhythm and minimal brain damage. Advanced care can then support recovery.
+
+A patient who received no CPR and no defibrillation arrives in asystole, after irreversible brain damage. Advanced care has very little to work with.
+
+## The Only Broken Link In India
+
+India's chain of survival has one structurally broken link: early defibrillation.
+
+Link one — recognition and emergency call — is imperfect but functional. Awareness of 112 is growing.
+
+Link two — bystander CPR — is weak but improvable through training programmes that are becoming more accessible.
+
+Link four — advanced care — exists, though unevenly distributed.
+
+Link three — an AED on the wall, present at the scene, used within 3–5 minutes — is missing in almost every non-hospital setting in India.
+
+This is the gap that cardiac safety infrastructure is designed to close. Not with complexity or significant cost or specialised training — but with the presence of a single device that any person can operate, in the place where the cardiac arrest happens.
+
+The chain is only as strong as its weakest link. Strengthen the third link and the entire chain begins to function.
+`},{slug:"gyms-india-aed-exercise-cardiac-arrest-connection",title:"Why Every Gym In India Needs An AED — The Exercise-Cardiac Arrest Connection",excerpt:"Gyms are one of the highest-risk environments for sudden cardiac arrest — and among the most underprotected. The combination of physical exertion, undiagnosed cardiac conditions, and the complete absence of AEDs makes Indian fitness facilities a critical gap in the country's cardiac safety infrastructure.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## The Paradox At The Heart Of Every Gym
+
+People go to gyms to improve their heart health. The evidence that regular, moderate exercise is beneficial for cardiovascular outcomes is overwhelming and well-established. Exercise reduces blood pressure, improves lipid profiles, strengthens the myocardium, and reduces long-term cardiac risk.
+
+And yet gyms are, statistically, one of the most common settings for sudden cardiac arrest.
+
+This is not a contradiction. It is a clinical reality that the fitness industry in India has not adequately reckoned with. The same exertion that improves the heart over time can, in individuals with undiagnosed conditions, trigger a fatal arrhythmia in the moment.
+
+Understanding why — and what the responsible response is — is a matter of both clinical knowledge and institutional duty of care.
+
+## Why Physical Exertion Triggers Cardiac Arrest
+
+Vigorous exercise places the heart under significant physiological stress. Heart rate increases. Blood pressure rises. Adrenaline surges. The electrical system of the heart is pushed to operate at intensity.
+
+For the vast majority of people, this is entirely safe. The healthy heart is designed to handle exertion.
+
+For individuals with undiagnosed structural or electrical heart conditions — hypertrophic cardiomyopathy, arrhythmogenic cardiomyopathy, long QT syndrome, Brugada syndrome, or early coronary artery disease — intense exercise can be the specific trigger that initiates ventricular fibrillation. The elevated sympathetic tone and catecholamine release during exercise lower the threshold for arrhythmia in vulnerable hearts.
+
+Most of these conditions produce no prior symptoms. They are discovered at autopsy, not at a routine check-up. The first clinical event is often the fatal one.
+
+## The Gym Setting Compounds The Risk
+
+Several characteristics specific to gyms amplify the risk beyond background population rates.
+
+**Overexertion by the deconditioned.** New gym members — often individuals who have been sedentary and are making a genuine lifestyle effort — are at elevated risk during their first weeks of exercise. Pushing hard before the cardiovascular system has adapted creates acute stress on a heart that may have underlying vulnerabilities.
+
+**The post-COVID population.** A significant proportion of Indian adults who experienced COVID-19 infections between 2020 and 2022 have residual myocardial inflammation or autonomic dysfunction. Exercise intolerance and arrhythmia risk are well-documented in post-COVID patients, even those who had mild infections. Many have returned to gym environments without cardiac clearance.
+
+**Age range and screening gaps.** Gyms serve members across a wide age range, from teenagers to retirees. Older members, particularly those who have resumed exercise after a period of inactivity, carry elevated coronary artery disease risk that standard gym intake procedures do not screen for.
+
+**Environmental factors.** High ambient temperatures, dehydration, and pre-workout supplements containing stimulants can all lower the threshold for cardiac arrhythmia, particularly during high-intensity training.
+
+## What The Data Says About Gyms And Cardiac Arrest
+
+Research on exercise-associated cardiac arrest consistently identifies fitness facilities as a significant setting for out-of-hospital events.
+
+A study published in Circulation examining health club-associated cardiac arrests found that survival rates with on-site AEDs exceeded 50%, compared to under 5% without them. A systematic review in the British Journal of Sports Medicine found that AED use within 3–5 minutes of gym-based cardiac arrest produced survival rates consistently above 40%, with some studies reporting rates over 70%.
+
+The American Heart Association, the American College of Cardiology, the European Society of Cardiology, and virtually every major sports medicine body globally recommends or mandates AED availability in fitness facilities.
+
+Australia requires AEDs in all registered fitness facilities. The United States has state-level mandates across much of the country. Canada, the UK, and most of Europe have similar requirements for gyms above a minimum size.
+
+India has no such requirement. Premium gym chains, budget fitness studios, hotel gyms, and residential society fitness facilities operate without AEDs because the law does not require them — not because the clinical case for them is absent.
+
+## The Specific Gym Scenarios That Require Immediate Response
+
+Cardiac arrest in a gym setting presents some practical advantages over other out-of-hospital environments — if, and only if, an AED is present.
+
+Gyms are staffed. A trainer or front-desk employee is almost always present during operating hours. Gyms have physical space that allows CPR to be performed without obstruction. Gyms have visible emergency equipment areas. And gym environments typically have witnesses — other members — who can call for help while CPR is initiated.
+
+The time from collapse to AED application in a well-prepared gym with on-site staff training can realistically be under 90 seconds. That is a survival probability above 80%, based on documented clinical data.
+
+All of this is contingent on one thing: the AED being present.
+
+## The Premium Gym Liability Question
+
+India's premium fitness chains — Cult.fit, Anytime Fitness franchises, hotel gyms in five-star properties, and high-end standalone studios — operate in a segment where their clientele is informed, urban, and increasingly aware of what comparable facilities worldwide look like.
+
+International guests at hotel gyms and members who have trained abroad are beginning to notice the absence of AEDs in Indian facilities. The reputational and legal dimensions of this gap are beginning to sharpen.
+
+If a cardiac arrest occurs at a premium gym that does not have an AED, and it becomes known that an AED at the same facility internationally would be standard equipment, the questions that follow will be uncomfortable.
+
+The argument for AED deployment in Indian gyms is clinical, ethical, and increasingly operational. The only thing currently missing is the requirement.
+
+That requirement will come. The organisations that install cardiac safety infrastructure before it does will not need to answer those questions.
+`},{slug:"hotels-banquet-halls-event-venues-cardiac-safety",title:"Hotels, Banquet Halls And Event Venues: The Cardiac Safety Blind Spot In India's Hospitality Industry",excerpt:"Thousands of people gather in India's five-star hotels and event venues every day. Wedding halls, conference centres, and banquet rooms host high-stress occasions with guests across every age group. Almost none of them have AEDs. This is a problem the hospitality industry has not yet confronted — but will.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## Where People Gather, Cardiac Arrests Happen
+
+Sudden cardiac arrest does not discriminate by location. It occurs wherever people are — and the more people present in a single space, the more cardiac arrests that space will see over time.
+
+India's hospitality sector hosts an extraordinary concentration of people, often under conditions that are associated with elevated cardiac risk.
+
+Wedding celebrations. Corporate conferences. Award ceremonies. New Year's Eve events. Diwali parties in ballrooms. Retirement dinners. All of these gather large numbers of people, many of them middle-aged or older, often in conditions of elevated excitement, alcohol consumption, rich food, disrupted sleep, and intense emotional stimulation — a cluster of factors that can precipitate cardiac events in vulnerable individuals.
+
+And almost none of these venues in India have an AED.
+
+## The Hotel Setting: High Risk, High Responsibility
+
+Five-star hotels operate under a premium promise — that everything within their walls reflects the highest standard of care and preparedness. They employ dedicated security teams, train staff in fire evacuation, maintain defibrillators in their swimming pools in some cases, and have first-aid kits in every room.
+
+The logic that supports all of these preparations also supports AED deployment throughout the property. The gap is not one of resources. It is one of awareness and institutional culture.
+
+International hotel chains operating in India — Marriott, Hyatt, ITC, Oberoi, Leela — all operate properties in countries where AEDs are mandatory or standard. Their global safety protocols have not been consistently applied in their Indian properties.
+
+This is a gap that will narrow as regulatory scrutiny and liability awareness increase.
+
+## Banquet Halls: The Highest Concentration Risk
+
+Of all hospitality venues, banquet halls — specifically those hosting Indian weddings — may represent the highest per-event cardiac risk of any semi-public setting.
+
+Indian wedding receptions regularly host 500 to 2,000 guests. The guest list spans generations, with grandparents in their seventies and eighties often present. The event involves hours of standing, dancing, emotional intensity, rich food, and often alcohol. The setting can be warm and crowded.
+
+The Indian subcontinent population has a documented higher genetic predisposition to cardiovascular disease, with first cardiac events occurring an average of ten years earlier than Western populations. A wedding gathering of 800 guests, of whom perhaps 200 are over 60, in a warm banquet hall, is statistically not a zero-risk event.
+
+Wedding venues in the United States, United Kingdom, and Australia are increasingly expected — and in some jurisdictions required — to have AEDs available. The same expectation has not yet reached India. It will.
+
+## Conference Centres And Corporate Events
+
+Corporate conferences and seminars present a different but equally valid risk profile.
+
+Senior executives, often the primary attendees of large conferences, are in a demographic segment with elevated cardiovascular risk. Events involving high-profile presentations, investor announcements, or competitive pitches carry emotional and stress-related triggers for arrhythmia.
+
+The image of a cardiac arrest occurring during a major corporate conference, in full view of hundreds of attendees and potentially on livestream, is not hypothetical. It has happened at international events. The difference between a tragedy and a survival story is consistently, across documented cases, the presence of an AED.
+
+Conference centres in India — including those attached to five-star business hotels — have not made AED deployment a standard part of event safety protocols. This is a gap that corporate event planners and venue procurement teams are beginning to ask about.
+
+## The Duty Of Care Question
+
+Indian hospitality law and common law negligence principles impose a duty of care on venue operators toward their guests. The parameters of that duty are evolving.
+
+At present, there is no specific legal requirement for AEDs in Indian hospitality venues. But the legal position is more nuanced than the absence of a specific mandate suggests.
+
+If a guest suffers a cardiac arrest at a venue, and it can be demonstrated that the venue was aware of the risk that cardiac arrests can occur at gatherings, and that AEDs are the established clinical intervention for reversing the most common cause of cardiac arrest, and that the venue chose not to acquire one despite being financially equipped to do so — the legal exposure begins to take a specific shape.
+
+This is not a hypothetical liability argument. It mirrors the trajectory that fire safety, food safety, and pool safety liability took in India before those requirements were formalised in law.
+
+## What Cardiac Safety Infrastructure Looks Like In A Hospitality Setting
+
+The practical requirements are not complex. A large hotel property typically needs three to five wall-mounted AED units placed at staffed reception points, the gym, the pool area, and the main banquet entrance. Staff training — specifically front-desk teams, gym staff, and banquet coordinators — takes four hours and is valid for two years.
+
+The device requires quarterly checks, battery replacement on schedule, and pad replacement after use. All of this is standard in any properly structured cardiac safety subscription.
+
+The cost, relative to the operational budget of any hotel or venue operator that can afford to offer a five-star experience, is negligible. The reputational and humanitarian value of being the venue where someone's life was saved — rather than where someone died — is incalculable.
+
+India's hospitality industry is sophisticated, internationally benchmarked, and proud of its standards. Cardiac safety infrastructure is the missing standard.
+`},{slug:"what-happens-body-10-minutes-cardiac-arrest",title:"What Happens To Your Body In The First 10 Minutes Of Cardiac Arrest — A Minute-By-Minute Account",excerpt:"Cardiac arrest is often described in abstract terms. The reality is a precise, documented biological cascade that unfolds over minutes. Understanding it changes how you think about emergency response — and why every second of the response window matters.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## Why The Minute-By-Minute Account Matters
+
+Cardiac arrest is discussed in terms of statistics and probabilities — survival rates, response windows, defibrillation thresholds. These numbers are important. But they can feel abstract in a way that obscures the urgency they are meant to convey.
+
+What follows is a documented, medically accurate account of what happens inside a human body during the first ten minutes of untreated cardiac arrest. It is sourced from peer-reviewed research in emergency medicine, neurology, and cardiology.
+
+Understanding it does not require a medical background. It requires only the willingness to understand why those minutes — and the interventions available within them — are not merely important, but definitive.
+
+## Minute Zero: The Moment Of Arrest
+
+The heart enters ventricular fibrillation. Instead of a coordinated electrical sequence producing a heartbeat, the ventricles receive hundreds of chaotic, uncoordinated signals per minute. The heart quivers. No blood is pumped.
+
+Consciousness is lost within 4–10 seconds. The brain, which accounts for roughly 20% of the body's oxygen consumption despite being only 2% of its mass, begins to experience oxygen deprivation immediately.
+
+From the outside, the person collapses without warning. They may gasp — a phenomenon called agonal breathing, which is not true respiration but a brainstem reflex. They do not respond to voice or touch.
+
+This is the moment at which the clock starts.
+
+## Minutes One To Two: The Survivable Window At Its Widest
+
+The brain still contains residual oxygenated blood from the moment of arrest. Neurons are beginning to fire erratically as oxygen levels drop, but irreversible cellular death has not yet begun at scale.
+
+This is the window with the highest survival probability — if defibrillation occurs within these two minutes, survival rates in documented cases exceed 90%.
+
+CPR initiated within this window dramatically slows the deterioration. Manual chest compressions — at the correct depth of 5–6 centimetres and rate of 100–120 per minute — can generate approximately 25–30% of normal cardiac output. This is not sufficient for consciousness, but it is sufficient to maintain cellular viability and delay the progression of brain damage.
+
+An AED applied and a shock delivered within this window has the highest probability of restoring a normal rhythm.
+
+## Minutes Two To Four: Brain Damage Begins
+
+Cerebral neurons begin dying. The brain is extraordinarily sensitive to anoxia — the absence of oxygen. Different regions deteriorate at different rates, with the hippocampus (responsible for memory) and the cerebral cortex (responsible for consciousness and higher function) among the most vulnerable.
+
+Irreversible neurological damage is now occurring, though its extent depends on whether any CPR is being performed and at what quality.
+
+Without CPR, the probability of death or severe neurological impairment increases sharply with every passing second in this window. With good-quality CPR, the damage progression is slowed, but it is not halted — and without defibrillation, the underlying cause remains unaddressed.
+
+The American Medical Association Journal of Ethics documents that if anoxia extends beyond four minutes, the probability of some degree of permanent brain cell loss rises steeply.
+
+## Minutes Four To Six: The Closing Window
+
+Defibrillation remains possible but survival probability is declining by approximately 7–10% per minute without it. The ventricular fibrillation — still the primary rhythm in most cases at this stage — is beginning to degrade. The chaotic electrical activity that an AED can interrupt is becoming harder to reverse as the cardiac muscle itself becomes increasingly depleted of energy.
+
+Brain damage continues. The extent of recoverable neurological function in survivors is beginning to be determined.
+
+CPR at this stage is critically important not only for maintaining circulation but for preserving the shockable VF rhythm. Without CPR, VF degrades to asystole faster. With good CPR, the window for successful defibrillation is extended.
+
+## Minutes Six To Eight: Significant Irreversible Damage
+
+Most studies examining neurological outcomes in cardiac arrest survivors who did not receive defibrillation within this window document significant cognitive impairment in survivors — where survival occurs at all.
+
+The heart, in many cases, is transitioning from ventricular fibrillation toward asystole — a flatline rhythm that is not shockable. Once asystole is established, an AED cannot help. Only advanced hospital-based interventions offer any remaining possibility of cardiac restoration, and outcomes at this stage are poor.
+
+Globally, by the time most Indian ambulances arrive at an out-of-hospital cardiac arrest — given average response times of 15–20 minutes in Delhi NCR — the majority of patients are at or past this window.
+
+## Minutes Eight To Ten: Approaching The Terminal Window
+
+Survival without professional advanced cardiac life support becomes increasingly unlikely. Patients who have not received any CPR are approaching the point at which biological death is effectively irreversible by any available intervention.
+
+Patients who received good bystander CPR have experienced slower deterioration, and may still be viable candidates for resuscitation if defibrillation or advanced care can be delivered promptly.
+
+The neurological picture for any survivor at this point is guarded. Hypoxic brain injury is present in virtually every case. Recovery is possible — the human brain retains some regenerative capacity — but the extent of recovery is directly correlated with how early and how effectively each intervention in the chain of survival was executed.
+
+## What This Account Means For Emergency Preparedness
+
+The biological timeline of cardiac arrest is not designed to be alarming for its own sake. It is designed to make a single practical point with clinical precision.
+
+The interventions that change outcomes — CPR within the first minute, defibrillation within three to five minutes — occur in a window that no ambulance, regardless of how well-resourced, can reliably reach from outside the building.
+
+The person who saves a cardiac arrest victim's life is the person who was already in the room. The device that makes saving that life possible is the AED on the wall.
+
+Every organisation that hosts people — offices, gyms, hotels, residential societies, schools — is hosting them through the potential occurrence of this ten-minute cascade. The only question is whether the building is prepared for it.
+`},{slug:"cardiac-arrest-women-india-underdiagnosed-underprotected",title:"Cardiac Arrest In Women: Why It Is Underdiagnosed, Underestimated, And Underprotected In India",excerpt:"Heart disease is widely perceived as a male problem. The data does not support this. Women in India face significant and growing cardiac arrest risk — and are consistently less likely to receive bystander CPR, defibrillation, or timely hospital care. This is a crisis hiding in plain sight.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## The Assumption That Is Costing Lives
+
+Ask most people to picture someone having a cardiac arrest, and they will picture a middle-aged man clutching his chest. This image is so culturally embedded — in Bollywood films, in public health messaging, in everyday conversation — that it has become a clinical blind spot.
+
+Women have heart attacks and cardiac arrests too. They die from them in significant numbers. And they are, consistently across studies and healthcare systems, less likely to receive the emergency interventions that would give them the best chance of survival.
+
+In India, where gender-based disparities in healthcare access and attention are compounded by cultural factors, this is not merely a clinical issue. It is a structural one.
+
+## The Epidemiology: Women And Cardiac Disease In India
+
+Cardiovascular disease is the leading cause of death among women in India, responsible for approximately 30% of female mortality. This statistic rarely appears in public discourse with anything like the prominence it deserves.
+
+The Indian Heart Association notes that Indian women experience their first cardiac events younger than women in most Western countries — in part due to genetic predisposition, in part due to modifiable risk factors including hypertension, diabetes, and tobacco use (including passive exposure), which are prevalent in the female population.
+
+Menopause is a significant inflection point. The protective effect of oestrogen on cardiovascular health diminishes post-menopause, and cardiac risk in women rises sharply in the decade following it. The post-menopausal Indian woman in her fifties and sixties — often the primary caregiver in a household, often the person whose health concerns are considered secondary to others in the family — carries substantial cardiac risk that is frequently unaddressed.
+
+## Why Women's Cardiac Arrests Are Different — And Missed
+
+Women presenting with acute cardiac events — both heart attacks and the conditions that precede sudden cardiac arrest — frequently present with symptoms that differ from the textbook male presentation.
+
+The classic presentation: sudden, severe chest pain radiating to the left arm. This presentation is more common in men. Women may experience the same, but more frequently present with subtler symptoms — unexplained fatigue, nausea, back or jaw pain, shortness of breath without chest pain, or a sense of impending dread.
+
+These presentations are more likely to be attributed to anxiety, digestive issues, or stress — by the woman herself, by her family, and sometimes by healthcare providers.
+
+In the context of cardiac arrest specifically, the 'atypical' presentation can mean that the preceding warning signs — hours or even days of unusual fatigue or mild chest discomfort — are not recognised as cardiac precursors. By the time the arrest occurs, no alert has been raised.
+
+## The Bystander CPR Gap
+
+Research from multiple countries, including a landmark study of over 19,000 cardiac arrest cases published in the European Heart Journal, has found that women who suffer out-of-hospital cardiac arrest are significantly less likely to receive bystander CPR than men.
+
+The reasons are several. Cultural discomfort with physical contact, especially chest contact, on a female patient. Hesitation about removing or adjusting clothing to access the chest. Fear of causing injury. Uncertainty about whether cardiac arrest is actually occurring.
+
+The result is measurable: in the study referenced, women received bystander CPR at lower rates than men, had less frequent AED use, and had worse survival outcomes — despite no inherent biological reason for poorer outcomes with equivalent treatment.
+
+In India, where physical contact between strangers across gender lines carries additional cultural weight, this gap is likely more pronounced than in Western populations. It has not been adequately studied.
+
+## What Workplaces And Residential Societies Must Understand
+
+Every workplace in India employs women. Every residential society houses them. The cardiac safety infrastructure in these settings — CPR training, AED placement, emergency response protocols — is not a gender-neutral provision.
+
+It needs to be implemented in a way that specifically addresses the bystander CPR gap for female patients. This means:
+
+**CPR training that explicitly addresses female patients.** Staff should be trained to act with the same speed and confidence regardless of the patient's gender. Hesitation is clinically costly. Training programmes should name and address the cultural hesitation directly.
+
+**AED placement that accounts for where women are.** If a building's female employees are concentrated on particular floors or in particular areas, AED placement should account for this geography.
+
+**Awareness that cardiac arrest in women may not look the same.** Recognition is the first link in the chain of survival. Training programmes should include the specific presentation patterns more common in women.
+
+## The Larger Point
+
+The gender dimension of cardiac arrest emergency response is not a niche concern. It affects half the population and, in the context of out-of-hospital cardiac arrest, it translates into measurable survival disparities that are almost entirely a product of human response — not biology.
+
+An AED does not distinguish between patients. Its clinical effectiveness is identical regardless of who is in cardiac arrest. The challenge is ensuring that the human response — recognition, CPR initiation, AED retrieval — is equally fast and equally confident for every patient.
+
+Making cardiac safety infrastructure genuinely inclusive means training people to respond to it in every patient they encounter. That training, and the devices that support it, are the starting point.
+`},{slug:"aed-myths-debunked-what-indians-get-wrong",title:"AED Myths Debunked: 10 Things Indians Believe About Defibrillators That Are Simply Wrong",excerpt:"Fear and misinformation are the most common reasons people hesitate to use an AED during a cardiac arrest. That hesitation costs lives. Here are the ten most persistent myths about AEDs — and the clinical reality behind each of them.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"6 min read",content:`
+## Why Myths About AEDs Kill People
+
+The AED is one of the most thoroughly tested, consistently effective, and user-friendly emergency medical devices ever developed. It has been refined over four decades to be safe, intuitive, and accessible to people with no medical background.
+
+And yet, when a cardiac arrest occurs, bystanders often do not use one — even when it is present.
+
+The reason is almost always misinformation. Specific, persistent myths about what AEDs do, who can use them, and what happens when they are used wrong circulate widely — especially in India, where public familiarity with AEDs is low.
+
+Each of these myths, in a cardiac arrest scenario, contributes to hesitation. Hesitation costs minutes. Minutes cost lives.
+
+Here are the ten most common myths about AEDs — and the accurate clinical picture that should replace each of them.
+
+## Myth 1: You Need Medical Training To Use An AED
+
+This is the most common and most damaging myth in circulation.
+
+Modern AEDs are designed for use by members of the public with no medical training whatsoever. The device conducts its own analysis, provides voice and visual instructions, determines whether a shock is needed, and delivers the shock — or instructs the user not to deliver one.
+
+The operator's role is to follow the instructions. Nothing more. Studies have shown that children as young as nine years old can successfully operate an AED with no prior training after watching a short demonstration.
+
+You do not need to know anything about cardiac rhythms, defibrillation thresholds, or emergency medicine. The AED knows. You follow its instructions.
+
+## Myth 2: You Can Accidentally Shock Someone Who Doesn't Need It
+
+An AED will not deliver a shock unless it detects a shockable cardiac rhythm — specifically ventricular fibrillation or ventricular tachycardia.
+
+If the person is unconscious for any other reason — a faint, a seizure, a head injury, intoxication — the AED will analyse the rhythm and instruct you not to shock. There is no way for an untrained bystander to accidentally administer an incorrect shock, because the machine makes that determination, not the person.
+
+The shock button activates the device's analysis function. The analysis determines whether a shock is delivered. The human cannot override this process.
+
+## Myth 3: The AED Will Electrocute Me Or Others Nearby
+
+The electrical discharge from an AED is conducted through adhesive pads placed directly on the patient's chest. When used as instructed — with no one touching the patient during the shock — the current is contained within the patient's body.
+
+The instruction to "stand clear" before a shock is delivered exists not because the shock can arc through air to bystanders, but because direct physical contact with the patient creates a conduction path. Step back, ensure no one is touching the patient, and the shock is entirely safe for everyone present.
+
+## Myth 4: If I Use An AED And It Doesn't Work, I'll Be Liable
+
+India's Good Samaritan laws protect bystanders who act in good faith to provide emergency medical assistance. The Motor Vehicles Act 2019 and subsequent Supreme Court guidelines have strengthened this protection significantly.
+
+A person who retrieves and uses an AED on a cardiac arrest victim, following the device's instructions, is acting in good faith in a medical emergency. They cannot be held legally liable for the outcome — including if the attempt is unsuccessful.
+
+The greater legal and ethical risk, in jurisdictions with Good Samaritan protection, is inaction.
+
+## Myth 5: An AED Restarts A Stopped Heart
+
+This is a technically accurate-sounding myth that misunderstands what AEDs actually do.
+
+In most cardiac arrests, the heart has not stopped. It is in ventricular fibrillation — a state of chaotic, uncoordinated electrical activity that produces no effective pumping. The heart is receiving hundreds of electrical signals per minute; it simply cannot coordinate them into a beat.
+
+An AED delivers a shock that simultaneously depolarises all cardiac cells, interrupting the chaotic cycling and giving the heart's natural pacemaker — the sinoatrial node — the opportunity to reassert a normal rhythm.
+
+If the heart were truly flatlined (asystole), an AED shock would not help, because there is no organised electrical activity to reset. This is why early defibrillation matters — VF degrades to asystole over time.
+
+## Myth 6: Doing CPR Wrong Is Worse Than Not Doing It
+
+This myth causes paralysis in bystanders who, uncertain whether they are performing compressions correctly, choose to do nothing.
+
+The clinical evidence is unambiguous: imperfect CPR is dramatically better than no CPR. Survival rates with any bystander CPR intervention are roughly double those with none. Compressions that are slightly shallow, slightly fast, or slightly off-centre still maintain some circulation to the brain. No compressions maintain none.
+
+The fear of doing CPR wrong should never prevent someone from attempting it. Do something. The AED's voice instructions will guide correction.
+
+## Myth 7: AEDs Are Only For Heart Attacks
+
+Cardiac arrest and heart attack are not the same condition. A heart attack (myocardial infarction) is a blockage of a coronary artery, causing heart muscle damage. A cardiac arrest is the sudden cessation of the heart's pumping function due to an electrical malfunction.
+
+AEDs address cardiac arrest. They address the specific electrical malfunction — ventricular fibrillation — that causes most sudden cardiac deaths.
+
+Someone having a heart attack may not be in cardiac arrest, and an AED is not the immediate treatment for a heart attack. However, a heart attack can trigger cardiac arrest, at which point an AED becomes the critical intervention.
+
+## Myth 8: Children Cannot Have Cardiac Arrests And Do Not Need AED Response
+
+Sudden cardiac arrest in children, while less common than in adults, is a clinical reality. Hypertrophic cardiomyopathy, long QT syndrome, commotio cordis (cardiac arrest caused by a blunt chest impact, common in sports), and other conditions cause cardiac arrest in paediatric patients.
+
+Most modern AEDs include paediatric modes or paediatric pad attachments that reduce the energy delivered for use on children under eight years of age or under 25 kilograms. In the absence of paediatric pads, standard adult pads can be used on a child — the alternative being no defibrillation at all.
+
+## Myth 9: The AED Will Not Work If The Person Is Wet Or Perspiring
+
+Wet skin does not prevent AED use — but it does require a brief preparation step. Before applying the pads, quickly dry the patient's chest with whatever is available — a shirt, a towel. This ensures proper pad adhesion and current conduction.
+
+If the person is in water — a pool, a flooded surface — they should be moved to a dry area before AED use if this can be done rapidly without delaying response. The electrical shock will dissipate harmlessly into standing water.
+
+Perspiration from exercise is not a barrier. The pads adhere to the chest and the shock is delivered through them regardless of normal skin moisture.
+
+## Myth 10: We Will Never Need An AED — It Would Just Be A Waste
+
+Cardiac arrest does not announce itself. It occurs without warning, in people of all ages and apparent health statuses, in every setting from offices to gyms to family gatherings.
+
+In India, approximately 700,000 people die from sudden cardiac arrest every year. Almost all of these deaths occur outside hospitals.
+
+The organisations that have installed AEDs and trained their staff will not know, until the moment of use, that they needed one. Most will never need to use them. Some will. And in those cases, the difference between having an AED on the wall and not having one is the difference between being the building where someone was saved and being the building where someone died.
+
+The cost of preparedness is fixed and small. The cost of the alternative is incalculable.
+`},{slug:"noida-cardiac-safety-gap-sector-62-expressway-greater-noida",title:"Noida's Cardiac Safety Gap — Why Sector 62, The Expressway Corridor, And Greater Noida Need AEDs Now",excerpt:"Noida has emerged as one of India's most significant commercial and residential hubs. Its IT parks, expressway office corridors, and gated societies house hundreds of thousands of urban professionals. Almost none of its workplaces or communities have AEDs. Here is why that needs to change.",author:{name:"Siddharth Bhatia",title:"Founder and CEO, WeRevive",initials:"SB"},date:"May 2026",category:"Cardiac Safety",readTime:"5 min read",content:`
+## Noida's Rise — And Its Safety Blind Spot
+
+Over the past two decades, Noida and its surrounding districts — Greater Noida, Noida Extension, and the Yamuna Expressway corridor — have undergone a transformation that few Indian cities can match.
+
+From agricultural land and small industrial townships, the region has evolved into one of India's most significant commercial and residential clusters. Sector 62 houses IT parks that employ tens of thousands of technology professionals. The Expressway corridor hosts campuses for some of India's largest multinational corporations. Greater Noida's residential sector includes gated communities that rival Gurugram's DLF phases in scale and sophistication.
+
+And across almost all of this — the office parks, the corporate campuses, the residential societies, the commercial high-streets — there is an almost total absence of cardiac safety infrastructure.
+
+This is not unique to Noida. It reflects the state of AED deployment across urban India. But Noida's specific profile — its population density, its demographic concentration of working-age professionals, and its documented emergency response challenges — makes the gap particularly acute.
+
+## The Demographic Reality
+
+Noida's workforce is predominantly young to middle-aged, urban, and professional — a profile that is consistently underestimated in cardiac risk assessments.
+
+The assumption that cardiac arrest is primarily a disease of the elderly is clinically outdated. Hypertrophic cardiomyopathy, the most common structural cause of sudden cardiac death in young adults, is present in approximately 1 in 500 people. Electrical conditions including long QT syndrome and Brugada syndrome are similarly prevalent and similarly invisible until they produce a fatal event.
+
+Add to this the specific risk factors prevalent in Noida's working population — chronic stress, sedentary work patterns interrupted by intense weekend exercise, post-COVID myocardial inflammation, and the growing prevalence of undiagnosed type-2 diabetes and hypertension among people in their thirties — and the statistical likelihood of cardiac arrest events in any large office building or residential community over a multi-year period is not negligible.
+
+It is, in actuarial terms, a known risk that organisations are currently choosing not to prepare for.
+
+## Noida's Emergency Response Timelines
+
+The cardiac arrest survival equation is simple: every minute without defibrillation reduces survival probability by 7–10%. The intervention window is approximately 6–8 minutes. After this window, survival without defibrillation becomes statistically improbable.
+
+Emergency response in Noida faces documented challenges that make on-site AEDs not a supplement to ambulance response, but a prerequisite for meaningful survival probability.
+
+Traffic congestion on Noida's major arteries — the Expressway, Sector 18's commercial district, the Delhi-Noida Direct flyway — is severe during working hours, which are precisely when office-based cardiac arrests are most likely to occur. Government ambulance response times in Uttar Pradesh, under which Noida falls for emergency services, have been documented at 20 minutes and above in non-emergency drills, with real-world performance often longer.
+
+By the time any external help arrives, the window for effective defibrillation has closed for most patients.
+
+The AED on the wall of the office is not a backup plan. It is the primary plan.
+
+## Sector 62: India's IT Corridor Without Cardiac Safety Infrastructure
+
+Sector 62 is home to some of the most recognisable names in Indian and global technology — HCL, Wipro, and dozens of product and services firms operate significant campuses here. These organisations are sophisticated employers. They conduct fire drills, maintain first aid kits, employ trained security personnel, and take occupational health seriously in many respects.
+
+Almost none of them have AEDs.
+
+This is not a criticism unique to Sector 62. It reflects a country-wide gap. But the concentration of employers, employees, and working hours in this single corridor makes it a compelling focal point for thinking about what organised, sector-level cardiac safety deployment would look like.
+
+A single building with an AED in each floor's emergency station and trained first responders among the security and admin staff is achievable within weeks. It costs less annually than the catering budget for a single all-hands meeting. And it changes the survival equation for every employee and visitor in the building for every working day thereafter.
+
+## The Expressway Corridor And Greater Noida: A Growing Risk
+
+The Yamuna Expressway has become one of India's most significant economic arteries, connecting Noida to Greater Noida and Agra. Along its length, institutional campuses, logistics facilities, and commercial parks house large working populations, often in buildings that are relatively isolated from urban emergency infrastructure.
+
+Greater Noida's residential sector — Omicron, Gaur City, Jaypee Greens, Pari Chowk's surrounding developments — has grown into a significant suburban population centre. Its residential societies house families across age groups, with the same cardiac risk profile as any urban residential community, in settings where emergency response times from the nearest hospital can be significantly longer than in central Noida.
+
+For these communities, an AED in the society clubhouse, gym, or security desk is not a luxury. It is basic emergency preparedness for a population that is geographically further from hospital care.
+
+## What Noida's Organisations Can Do Now
+
+The National Building Code and MHA fire safety standards, which most commercial building owners in Noida comply with, represent the baseline of emergency preparedness. They do not yet mandate AEDs. They will.
+
+The organisations that act before the mandate — securing cardiac safety infrastructure through a structured deployment, training their staff, and registering their AED locations — will not be scrambling when compliance becomes a legal requirement. They will already have the infrastructure, the trained personnel, and the documentation.
+
+More importantly, they will have created the conditions in which a cardiac arrest on their premises has a meaningful survival probability — rather than the near-certain fatality that an untreated, undefibrillated cardiac arrest produces.
+
+Noida is building world-class infrastructure. Cardiac safety is the infrastructure that protects the people inside it.
 `}],kv=s=>Eh.find(u=>u.slug===s),Kv=()=>Eh;function Ho(){const[s,u]=z.useState(!1),[f,o]=z.useState(!1);z.useEffect(()=>{const p=()=>{u(window.scrollY>50)};return window.addEventListener("scroll",p,{passive:!0}),()=>window.removeEventListener("scroll",p)},[]);const h=p=>{if(p.startsWith("#")){const b=document.getElementById(p.slice(1));if(b){b.scrollIntoView({behavior:"smooth"})}else{window.location.href="/"+p}}o(!1)};return r.jsxs("nav",{"code-path":"src/sections/SimpleNavigation.tsx:29:5",className:`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${s?"bg-white/95 backdrop-blur-md border-b border-black/5 shadow-sm":"bg-transparent"}`,children:[r.jsx("div",{"code-path":"src/sections/SimpleNavigation.tsx:36:7",className:"section-padding",children:r.jsxs("div",{"code-path":"src/sections/SimpleNavigation.tsx:37:9",className:"flex items-center justify-between h-16 lg:h-20",children:[r.jsxs(oa,{"code-path":"src/sections/SimpleNavigation.tsx:39:11",to:"/",className:"flex items-center gap-2 group",children:[r.jsx("img",{"code-path":"src/sections/SimpleNavigation.tsx:40:13",src:"/images/logo.png",alt:lt.name,className:"w-8 h-8 lg:w-10 lg:h-10 transition-transform duration-200 group-hover:scale-105"}),r.jsx("span",{"code-path":"src/sections/SimpleNavigation.tsx:45:13",className:"font-bold text-lg lg:text-xl tracking-tight text-[#1A1A1A]",children:lt.name})]}),r.jsx("div",{"code-path":"src/sections/SimpleNavigation.tsx:51:11",className:"hidden lg:flex items-center gap-8",children:vn.links.map(p=>p.href.startsWith("/")?r.jsx(oa,{"code-path":"src/sections/SimpleNavigation.tsx:54:17",to:p.href,className:"text-sm font-medium text-[#666666] hover:text-[#E63946] transition-colors",children:p.label},p.href):r.jsx("button",{"code-path":"src/sections/SimpleNavigation.tsx:62:17",onClick:()=>h(p.href),className:"text-sm font-medium text-[#666666] hover:text-[#E63946] transition-colors",children:p.label},p.href))}),r.jsx("div",{"code-path":"src/sections/SimpleNavigation.tsx:74:11",className:"hidden lg:block",children:r.jsx("button",{"code-path":"src/sections/SimpleNavigation.tsx:75:13",onClick:()=>h(vn.cta.href),className:"btn-primary text-sm",children:vn.cta.label})}),r.jsx("button",{"code-path":"src/sections/SimpleNavigation.tsx:84:11",onClick:()=>o(!f),className:"lg:hidden p-2",children:f?r.jsx(Sh,{"code-path":"src/sections/SimpleNavigation.tsx:89:15",className:"w-6 h-6 text-[#1A1A1A]"}):r.jsx(wv,{"code-path":"src/sections/SimpleNavigation.tsx:91:15",className:"w-6 h-6 text-[#1A1A1A]"})})]})}),f&&r.jsx("div",{"code-path":"src/sections/SimpleNavigation.tsx:99:9",className:"lg:hidden bg-white border-t border-black/5",children:r.jsxs("div",{"code-path":"src/sections/SimpleNavigation.tsx:100:11",className:"section-padding py-4 space-y-3",children:[vn.links.map(p=>p.href.startsWith("/")?r.jsx(oa,{"code-path":"src/sections/SimpleNavigation.tsx:103:17",to:p.href,onClick:()=>o(!1),className:"block w-full text-left py-2 text-[#666666] font-medium hover:text-[#E63946] transition-colors",children:p.label},p.href):r.jsx("button",{"code-path":"src/sections/SimpleNavigation.tsx:112:17",onClick:()=>h(p.href),className:"block w-full text-left py-2 text-[#666666] font-medium hover:text-[#E63946] transition-colors",children:p.label},p.href)),r.jsx("button",{"code-path":"src/sections/SimpleNavigation.tsx:121:13",onClick:()=>h(vn.cta.href),className:"btn-primary w-full mt-4",children:vn.cta.label})]})})]})}function Jv(){const s=()=>{const u=document.getElementById("contact");u&&u.scrollIntoView({behavior:"smooth"})};return r.jsxs("section",{"code-path":"src/sections/SimpleHero.tsx:13:5",id:"hero",className:"relative w-full min-h-screen flex items-center bg-white pt-20",children:[r.jsxs("div",{"code-path":"src/sections/SimpleHero.tsx:18:7",className:"absolute inset-0 w-full h-full",children:[r.jsx("img",{"code-path":"src/sections/SimpleHero.tsx:19:9",src:"/images/hero_office_man.jpg",alt:"Professional in modern office",className:"w-full h-full object-cover",style:{objectPosition:"65% 50%"}}),r.jsx("div",{"code-path":"src/sections/SimpleHero.tsx:25:9",className:"absolute inset-0",style:{background:"linear-gradient(90deg, rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.85) 45%, rgba(255,255,255,0.5) 100%)"}})]}),r.jsx("div",{"code-path":"src/sections/SimpleHero.tsx:34:7",className:"absolute inset-0 flex items-center justify-center pointer-events-none overflow-hidden opacity-30",children:r.jsx("svg",{"code-path":"src/sections/SimpleHero.tsx:35:9",className:"w-[200%] h-64",viewBox:"0 0 1200 200",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:r.jsx("path",{"code-path":"src/sections/SimpleHero.tsx:41:11",d:"M0 100 H400 L420 60 L460 140 L500 20 L540 180 L580 100 L1200 100",stroke:"#E63946",strokeWidth:"2",fill:"none",opacity:"0.1"})})}),r.jsx("div",{"code-path":"src/sections/SimpleHero.tsx:52:7",className:"relative z-10 w-full section-padding py-16 lg:py-24",children:r.jsxs("div",{"code-path":"src/sections/SimpleHero.tsx:53:9",className:"max-w-3xl",children:[r.jsxs("div",{"code-path":"src/sections/SimpleHero.tsx:55:11",className:"inline-flex items-center gap-2 px-3 py-1.5 bg-[#E63946]/10 rounded-full mb-6",children:[r.jsx("span",{"code-path":"src/sections/SimpleHero.tsx:56:13",className:"w-1.5 h-1.5 bg-[#E63946] rounded-full animate-pulse"}),r.jsx("span",{"code-path":"src/sections/SimpleHero.tsx:57:13",className:"text-xs font-semibold text-[#E63946] uppercase tracking-wider",children:yn.badge})]}),r.jsx("h1",{"code-path":"src/sections/SimpleHero.tsx:63:11",className:"heading-xl text-[#1A1A1A] mb-6",children:yn.headline.map((u,f)=>r.jsx("span",{"code-path":"src/sections/SimpleHero.tsx:65:15",className:"block",children:u},f))}),r.jsx("p",{"code-path":"src/sections/SimpleHero.tsx:70:11",className:"body-text text-lg lg:text-xl max-w-xl mb-8",children:yn.subheadline}),r.jsx("div",{"code-path":"src/sections/SimpleHero.tsx:75:11",className:"flex flex-wrap gap-3 mb-8",children:yn.trustPills.map(u=>r.jsxs("div",{"code-path":"src/sections/SimpleHero.tsx:77:15",className:"inline-flex items-center gap-2 px-4 py-2 bg-white/80 backdrop-blur-sm rounded-full border border-black/5",children:[r.jsx(Oo,{"code-path":"src/sections/SimpleHero.tsx:81:17",className:"w-4 h-4 text-[#E63946]"}),r.jsx("span",{"code-path":"src/sections/SimpleHero.tsx:82:17",className:"text-sm font-medium text-[#1A1A1A]",children:u})]},u))}),r.jsxs("div",{"code-path":"src/sections/SimpleHero.tsx:88:11",children:[r.jsxs("button",{"code-path":"src/sections/SimpleHero.tsx:89:13",onClick:s,className:"btn-primary text-base group",children:[yn.cta.label,r.jsx(Ps,{"code-path":"src/sections/SimpleHero.tsx:91:15",className:"w-4 h-4 ml-2 transition-transform group-hover:translate-x-1"})]}),r.jsx("p",{"code-path":"src/sections/SimpleHero.tsx:93:13",className:"mt-3 text-sm text-[#666666]",children:yn.ctaSubtext})]})]})})]})}function Fv(){return r.jsxs("section",{"code-path":"src/sections/SimpleProblem.tsx:5:5",id:"problem",className:"relative w-full py-20 lg:py-28 bg-[#1A1A1A]",children:[r.jsxs("div",{"code-path":"src/sections/SimpleProblem.tsx:10:7",className:"absolute inset-0 w-full h-full",children:[r.jsx("img",{"code-path":"src/sections/SimpleProblem.tsx:11:9",src:"/images/problem_office_woman.jpg",alt:"Concerned professional",className:"w-full h-full object-cover opacity-40",style:{objectPosition:"30% 50%"}}),r.jsx("div",{"code-path":"src/sections/SimpleProblem.tsx:17:9",className:"absolute inset-0",style:{background:"linear-gradient(90deg, rgba(26,26,26,0.95) 0%, rgba(26,26,26,0.85) 50%, rgba(26,26,26,0.7) 100%)"}})]}),r.jsx("div",{"code-path":"src/sections/SimpleProblem.tsx:26:7",className:"relative z-10 section-padding",children:r.jsxs("div",{"code-path":"src/sections/SimpleProblem.tsx:27:9",className:"max-w-5xl",children:[r.jsxs("div",{"code-path":"src/sections/SimpleProblem.tsx:29:11",className:"inline-flex items-center gap-2 mb-6",children:[r.jsx("span",{"code-path":"src/sections/SimpleProblem.tsx:30:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleProblem.tsx:31:13",className:"label-text text-[#E63946]",children:xn.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleProblem.tsx:35:11",className:"heading-xl text-white mb-6",children:xn.headline.map((s,u)=>r.jsx("span",{"code-path":"src/sections/SimpleProblem.tsx:37:15",className:"block",children:s},u))}),r.jsx("p",{"code-path":"src/sections/SimpleProblem.tsx:42:11",className:"text-lg lg:text-xl text-white/70 max-w-2xl mb-10",children:xn.subheadline}),r.jsx("div",{"code-path":"src/sections/SimpleProblem.tsx:47:11",className:"grid grid-cols-1 md:grid-cols-3 gap-4 lg:gap-6 mb-8",children:xn.stats.map(s=>r.jsxs("div",{"code-path":"src/sections/SimpleProblem.tsx:49:15",className:"bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-6",children:[r.jsxs("div",{"code-path":"src/sections/SimpleProblem.tsx:53:17",className:"flex items-baseline gap-1 mb-2",children:[r.jsx("span",{"code-path":"src/sections/SimpleProblem.tsx:54:19",className:"text-4xl lg:text-5xl font-extrabold text-white",children:s.value}),r.jsx("span",{"code-path":"src/sections/SimpleProblem.tsx:57:19",className:"text-2xl lg:text-3xl font-bold text-[#E63946]",children:s.unit})]}),r.jsx("p",{"code-path":"src/sections/SimpleProblem.tsx:61:17",className:"text-sm text-white/60",children:s.label})]},s.label))}),r.jsxs("div",{"code-path":"src/sections/SimpleProblem.tsx:67:11",className:"bg-[#E63946]/10 border border-[#E63946]/30 rounded-2xl p-6 max-w-3xl",children:[r.jsx("p",{"code-path":"src/sections/SimpleProblem.tsx:68:13",className:"text-white text-lg lg:text-xl leading-relaxed",children:xn.callout.text.split(". ").map((s,u,f)=>{const o=s.split(":");return o.length===2?r.jsxs("span",{"code-path":"src/sections/SimpleProblem.tsx:73:21",children:[r.jsxs("span",{"code-path":"src/sections/SimpleProblem.tsx:74:23",className:"text-white/60",children:[o[0],":"]})," ",r.jsx("span",{"code-path":"src/sections/SimpleProblem.tsx:75:23",className:u===f.length-1?"font-bold text-[#E63946]":"font-bold",children:o[1]}),u<f.length-1?". ":""]},u):r.jsxs("span",{"code-path":"src/sections/SimpleProblem.tsx:80:24",children:[s,u<f.length-1?". ":""]},u)})}),r.jsxs("p",{"code-path":"src/sections/SimpleProblem.tsx:83:13",className:"text-xs text-white/40 mt-3 uppercase tracking-wider",children:["Source: ",xn.callout.source]})]})]})})]})}function AEDExplainer(){return r.jsx("section",{id:"what-is-aed",className:"relative w-full py-20 lg:py-28 bg-white",children:r.jsx("div",{className:"max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center",children:r.jsxs("div",{className:"flex flex-col items-center",children:[r.jsxs("div",{className:"inline-flex items-center gap-2 mb-6",children:[r.jsx("span",{className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{className:"label-text text-[#E63946]",children:"WHAT IS AN AED?"})]}),r.jsx("h2",{className:"heading-xl text-[#1A1A1A] mb-6 text-center",children:"The device that restarts a stopped heart."}),r.jsx("p",{className:"body-text text-[#666666] mb-4 text-center max-w-2xl",children:"An Automated External Defibrillator — AED — is a portable medical device designed to treat sudden cardiac arrest. When the heart goes into ventricular fibrillation, it quivers chaotically instead of pumping blood. An AED detects this electrical malfunction and delivers a precise shock to restore a normal rhythm."}),r.jsx("p",{className:"body-text text-[#666666] mb-10 text-center max-w-2xl",children:"It is fully voice-guided, step by step. You do not need medical training to use one. The device tells you exactly what to do — from placing the pads to delivering the shock. It will never shock someone whose heart does not need it."}),r.jsxs("div",{className:"w-full max-w-2xl mx-auto mt-4 flex flex-col md:flex-row items-center md:items-stretch gap-6 md:gap-8",children:[r.jsx("div",{className:"w-full md:w-[42%] flex items-center justify-center bg-white rounded-2xl",children:r.jsx("img",{src:"/images/aed_device.png",alt:"Automated External Defibrillator",className:"w-full max-w-[270px] object-contain",style:{filter:"drop-shadow(0 22px 55px rgba(0,0,0,0.14))"}})}),r.jsxs("div",{className:"w-full md:flex-1 flex flex-col justify-center gap-4",children:[r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl px-5 py-4 text-left",children:[r.jsx("div",{className:"text-[#E63946] font-bold text-lg mb-1",children:"Detects"}),r.jsx("div",{className:"text-[#666666] text-sm leading-relaxed",children:"Analyses heart rhythm automatically. No guesswork, no medical knowledge needed."})]}),r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl px-5 py-4 text-left",children:[r.jsx("div",{className:"text-[#E63946] font-bold text-lg mb-1",children:"Guides"}),r.jsx("div",{className:"text-[#666666] text-sm leading-relaxed",children:"Clear voice instructions walk anyone through every step. Anyone can use it."})]}),r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl px-5 py-4 text-left",children:[r.jsx("div",{className:"text-[#E63946] font-bold text-lg mb-1",children:"Delivers"}),r.jsx("div",{className:"text-[#666666] text-sm leading-relaxed",children:"Delivers a shock only when the heart needs it. Safe, precise, and automatic."})]})]})]})]})})})};function CardiacArrestSection(){return r.jsx("section",{id:"what-is-cardiac-arrest",className:"relative w-full py-20 lg:py-28 bg-[#F5F5F7]",children:r.jsxs("div",{className:"section-padding max-w-6xl mx-auto",children:[r.jsxs("div",{className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{className:"label-text text-[#E63946]",children:"WHAT IS CARDIAC ARREST"})]}),r.jsx("h2",{className:"heading-lg text-[#1A1A1A] mb-4",children:"It can happen to anyone. At any age. Without warning."}),r.jsx("p",{className:"text-lg text-[#666666] max-w-2xl mx-auto",children:"Cardiac arrest is not a heart attack. A heart attack is a blocked artery. Cardiac arrest is an electrical failure — the heart stops pumping entirely. The person collapses, becomes unresponsive, and stops breathing normally."})]}),r.jsxs("div",{className:"grid grid-cols-1 lg:grid-cols-3 gap-6 mb-12",children:[r.jsxs("div",{className:"bg-white rounded-2xl p-6 lg:p-8 border border-[#E63946]/20",children:[r.jsx("div",{className:"w-10 h-10 bg-[#E63946] rounded-xl flex items-center justify-center mb-4",children:r.jsx("span",{className:"text-white text-lg font-bold",children:"1"})}),r.jsx("h3",{className:"text-lg font-bold text-[#1A1A1A] mb-2",children:"The heart quivers"}),r.jsx("p",{className:"text-[#666666] text-sm leading-relaxed",children:"In 90% of cases, the heart does not just stop. It goes into Ventricular Fibrillation — quivering violently instead of pumping. No blood reaches the brain. Damage begins in 4 minutes."})]}),r.jsxs("div",{className:"bg-white rounded-2xl p-6 lg:p-8 border border-[#E63946]/20",children:[r.jsx("div",{className:"w-10 h-10 bg-[#E63946] rounded-xl flex items-center justify-center mb-4",children:r.jsx("span",{className:"text-white text-lg font-bold",children:"2"})}),r.jsx("h3",{className:"text-lg font-bold text-[#1A1A1A] mb-2",children:"The window closes fast"}),r.jsx("p",{className:"text-[#666666] text-sm leading-relaxed",children:"The quivering fades to flatline within minutes. By the time an ambulance arrives — 17 minutes on average in Delhi NCR — only 25–40% of patients are still in a shockable rhythm. The rest cannot be helped by a defibrillator."})]}),r.jsxs("div",{className:"bg-white rounded-2xl p-6 lg:p-8 border border-[#E63946]/20",children:[r.jsx("div",{className:"w-10 h-10 bg-[#E63946] rounded-xl flex items-center justify-center mb-4",children:r.jsx("span",{className:"text-white text-lg font-bold",children:"3"})}),r.jsx("h3",{className:"text-lg font-bold text-[#1A1A1A] mb-2",children:"One treatment exists"}),r.jsx("p",{className:"text-[#666666] text-sm leading-relaxed",children:"There is only one definitive treatment for Ventricular Fibrillation: a defibrillator shock. CPR buys time. But only a defibrillator resets the heart. Not a doctor. Not an ambulance. Only a defibrillator."})]})]}),r.jsxs("div",{className:"bg-[#1A1A1A] rounded-2xl p-6 lg:p-8 max-w-4xl mx-auto",children:[r.jsx("p",{className:"label-text text-[#E63946] mb-3",children:"ALSO IMPORTANT"}),r.jsx("p",{className:"text-white text-lg leading-relaxed",children:"Cardiac arrest does not only happen to older or unhealthy people. It can strike anyone — a young athlete, a resident in their society gym, a professional at their desk. It can also result from non-cardiac causes: drowning, electrocution, or trauma. An AED analyses the heart rhythm and delivers a shock only if one is needed. It is safe for anyone to use on any unresponsive person."})]})]})})}
 function Wv(){const s=()=>{const u=document.getElementById("included");u&&u.scrollIntoView({behavior:"smooth"})};return r.jsxs("section",{"code-path":"src/sections/SimpleSolution.tsx:13:5",id:"solution",className:"relative w-full py-20 lg:py-28 bg-white",children:[r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:18:7",className:"absolute inset-0 w-full h-full",children:[r.jsx("img",{"code-path":"src/sections/SimpleSolution.tsx:19:9",src:"/images/solution_aed_man.jpg",alt:"Man holding AED device",className:"w-full h-full object-cover opacity-30",style:{objectPosition:"70% 50%"}}),r.jsx("div",{"code-path":"src/sections/SimpleSolution.tsx:25:9",className:"absolute inset-0",style:{background:"linear-gradient(90deg, rgba(255,255,255,0.98) 0%, rgba(255,255,255,0.95) 45%, rgba(255,255,255,0.8) 100%)"}})]}),r.jsx("div",{"code-path":"src/sections/SimpleSolution.tsx:34:7",className:"relative z-10 section-padding flex justify-center",children:r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:35:9",className:"max-w-5xl mx-auto flex flex-col items-center",children:[r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:37:11",className:"inline-flex items-center gap-2 mb-6 mx-auto",children:[r.jsx("span",{"code-path":"src/sections/SimpleSolution.tsx:38:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleSolution.tsx:39:13",className:"label-text text-[#E63946]",children:nl.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleSolution.tsx:43:11",className:"heading-xl text-[#1A1A1A] mb-4 text-center",children:nl.headline.map((u,f)=>r.jsx("span",{"code-path":"src/sections/SimpleSolution.tsx:45:15",className:"block",children:u},f))}),r.jsx("p",{"code-path":"src/sections/SimpleSolution.tsx:50:11",className:"text-lg lg:text-xl text-[#666666] max-w-xl mb-8 text-center mx-auto",children:nl.subheadline}),r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:55:11",className:"bg-white rounded-2xl shadow-[0_4px_32px_rgba(0,0,0,0.08)] overflow-hidden max-w-4xl mb-8 w-full",children:[r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:57:13",className:"grid grid-cols-2 border-b border-black/5",children:[r.jsx("div",{"code-path":"src/sections/SimpleSolution.tsx:58:15",className:"p-4 lg:p-6 bg-[#F5F5F7]",children:r.jsx("h3",{"code-path":"src/sections/SimpleSolution.tsx:59:17",className:"font-semibold text-[#666666]",children:nl.comparison.left.title})}),r.jsx("div",{"code-path":"src/sections/SimpleSolution.tsx:61:15",className:"p-4 lg:p-6 bg-[#1A1A1A]",children:r.jsx("h3",{"code-path":"src/sections/SimpleSolution.tsx:62:17",className:"font-semibold text-white",children:nl.comparison.right.title})})]}),nl.comparison.left.rows.map((u,f)=>r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:68:15",className:"grid grid-cols-2 border-b border-black/5 last:border-b-0",children:[r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:72:17",className:"p-4 lg:p-5 flex items-center gap-3 bg-[#F5F5F7]/50",children:[r.jsx(Sh,{"code-path":"src/sections/SimpleSolution.tsx:73:19",className:"w-5 h-5 text-[#E63946] flex-shrink-0"}),r.jsx("span",{"code-path":"src/sections/SimpleSolution.tsx:74:19",className:"text-sm lg:text-base text-[#666666]",children:u})]}),r.jsxs("div",{"code-path":"src/sections/SimpleSolution.tsx:76:17",className:"p-4 lg:p-5 flex items-center gap-3",children:[r.jsx(Oo,{"code-path":"src/sections/SimpleSolution.tsx:77:19",className:"w-5 h-5 text-green-600 flex-shrink-0"}),r.jsx("span",{"code-path":"src/sections/SimpleSolution.tsx:78:19",className:"text-sm lg:text-base text-[#1A1A1A] font-medium",children:nl.comparison.right.rows[f]})]})]},f))]}),r.jsxs("button",{"code-path":"src/sections/SimpleSolution.tsx:87:11",onClick:s,className:"btn-primary group",children:[nl.cta.label,r.jsx(Ps,{"code-path":"src/sections/SimpleSolution.tsx:89:13",className:"w-4 h-4 ml-2 transition-transform group-hover:translate-x-1"})]})]})})]})}const $v={HeartPulse:yv,Wrench:Zv,GraduationCap:hv,Smartphone:Hv,FileCheck:dv,Headphones:gv};function Pv(){return r.jsx("section",{"code-path":"src/sections/SimpleIncluded.tsx:15:5",id:"included",className:"relative w-full py-20 lg:py-28 bg-[#F5F5F7]",children:r.jsxs("div",{"code-path":"src/sections/SimpleIncluded.tsx:19:7",className:"section-padding",children:[r.jsxs("div",{"code-path":"src/sections/SimpleIncluded.tsx:21:9",className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{"code-path":"src/sections/SimpleIncluded.tsx:22:11",className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{"code-path":"src/sections/SimpleIncluded.tsx:23:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleIncluded.tsx:24:13",className:"label-text text-[#E63946]",children:Xs.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleIncluded.tsx:26:11",className:"heading-lg text-[#1A1A1A] mb-4",children:Xs.headline}),r.jsx("p",{"code-path":"src/sections/SimpleIncluded.tsx:29:11",className:"body-text text-lg max-w-2xl mx-auto",children:Xs.subheadline})]}),r.jsx("div",{"code-path":"src/sections/SimpleIncluded.tsx:35:9",className:"grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-6 max-w-6xl mx-auto",children:Xs.features.map(s=>{const u=$v[s.icon];return r.jsxs("div",{"code-path":"src/sections/SimpleIncluded.tsx:39:15",className:"bg-white rounded-2xl p-6 lg:p-8 shadow-[0_4px_24px_rgba(0,0,0,0.04)] hover:shadow-[0_8px_32px_rgba(0,0,0,0.08)] transition-shadow duration-300",children:[r.jsx("div",{"code-path":"src/sections/SimpleIncluded.tsx:43:17",className:"w-12 h-12 bg-[#E63946]/10 rounded-xl flex items-center justify-center mb-5",children:u&&r.jsx(u,{"code-path":"src/sections/SimpleIncluded.tsx:44:37",className:"w-6 h-6 text-[#E63946]"})}),r.jsx("h3",{"code-path":"src/sections/SimpleIncluded.tsx:46:17",className:"text-lg lg:text-xl font-bold text-[#1A1A1A] mb-2",children:s.title}),r.jsx("p",{"code-path":"src/sections/SimpleIncluded.tsx:49:17",className:"text-[#666666] text-sm lg:text-base leading-relaxed",children:s.description})]},s.title)})})]})})}function Iv(){return r.jsx("section",{"code-path":"src/sections/SimpleHowItWorks.tsx:5:5",id:"how-it-works",className:"relative w-full py-20 lg:py-28 bg-white",children:r.jsxs("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:9:7",className:"section-padding",children:[r.jsxs("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:11:9",className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:12:11",className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{"code-path":"src/sections/SimpleHowItWorks.tsx:13:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleHowItWorks.tsx:14:13",className:"label-text text-[#E63946]",children:Zs.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleHowItWorks.tsx:16:11",className:"heading-lg text-[#1A1A1A] mb-4",children:Zs.headline})]}),r.jsx("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:22:9",className:"grid grid-cols-1 lg:grid-cols-3 gap-6 lg:gap-8 max-w-5xl mx-auto",children:Zs.steps.map((s,u)=>r.jsxs("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:24:13",className:"relative",children:[u<Zs.steps.length-1&&r.jsx("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:27:17",className:"hidden lg:block absolute top-8 left-[60%] w-[80%] h-px bg-black/10"}),r.jsxs("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:30:15",className:"flex flex-col",children:[r.jsx("div",{"code-path":"src/sections/SimpleHowItWorks.tsx:32:17",className:"w-16 h-16 bg-[#E63946] rounded-full flex items-center justify-center mb-6",children:r.jsx("span",{"code-path":"src/sections/SimpleHowItWorks.tsx:33:19",className:"text-white font-bold text-lg",children:s.number})}),r.jsx("span",{"code-path":"src/sections/SimpleHowItWorks.tsx:37:17",className:"label-text text-[#E63946] mb-2",children:s.phase}),r.jsx("h3",{"code-path":"src/sections/SimpleHowItWorks.tsx:40:17",className:"text-xl lg:text-2xl font-bold text-[#1A1A1A] mb-3",children:s.title}),r.jsx("p",{"code-path":"src/sections/SimpleHowItWorks.tsx:45:17",className:"text-[#666666] leading-relaxed",children:s.description})]})]},s.number))})]})})}const ey={Building2:iv,MapPin:xh,Dumbbell:rv,Stethoscope:Lv};function ty(){return r.jsx("section",{"code-path":"src/sections/SimpleWhoItsFor.tsx:13:5",id:"who-its-for",className:"relative w-full py-20 lg:py-28 bg-[#F5F5F7]",children:r.jsxs("div",{"code-path":"src/sections/SimpleWhoItsFor.tsx:17:7",className:"section-padding",children:[r.jsxs("div",{"code-path":"src/sections/SimpleWhoItsFor.tsx:19:9",className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{"code-path":"src/sections/SimpleWhoItsFor.tsx:20:11",className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{"code-path":"src/sections/SimpleWhoItsFor.tsx:21:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleWhoItsFor.tsx:22:13",className:"label-text text-[#E63946]",children:So.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleWhoItsFor.tsx:24:11",className:"heading-lg text-[#1A1A1A] mb-4",children:So.headline})]}),r.jsx("div",{"code-path":"src/sections/SimpleWhoItsFor.tsx:30:9",className:"grid grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-6 max-w-5xl mx-auto",children:So.targets.map(s=>{const u=ey[s.icon];return r.jsxs("div",{"code-path":"src/sections/SimpleWhoItsFor.tsx:34:15",className:"bg-white rounded-2xl p-6 lg:p-8 shadow-[0_4px_24px_rgba(0,0,0,0.04)] hover:shadow-[0_8px_32px_rgba(0,0,0,0.08)] hover:-translate-y-1 transition-all duration-300",children:[r.jsx("div",{"code-path":"src/sections/SimpleWhoItsFor.tsx:38:17",className:"w-10 h-10 bg-[#E63946]/10 rounded-lg flex items-center justify-center mb-4",children:u&&r.jsx(u,{"code-path":"src/sections/SimpleWhoItsFor.tsx:39:37",className:"w-5 h-5 text-[#E63946]"})}),r.jsx("h3",{"code-path":"src/sections/SimpleWhoItsFor.tsx:41:17",className:"text-lg font-bold text-[#1A1A1A] mb-2",children:s.title}),r.jsx("p",{"code-path":"src/sections/SimpleWhoItsFor.tsx:44:17",className:"text-[#666666] text-sm leading-relaxed",children:s.description})]},s.title)})})]})})}function ay(){const s=()=>{const u=document.getElementById("contact");u&&u.scrollIntoView({behavior:"smooth"})};return r.jsxs("section",{"code-path":"src/sections/SimplePricing.tsx:13:5",id:"pricing",className:"relative w-full py-20 lg:py-28 bg-white",children:[r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:18:7",className:"absolute inset-0 w-full h-full",children:[r.jsx("img",{"code-path":"src/sections/SimplePricing.tsx:19:9",src:"/images/pricing_professional_woman.jpg",alt:"Confident professional",className:"w-full h-full object-cover opacity-25",style:{objectPosition:"70% 50%"}}),r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:25:9",className:"absolute inset-0",style:{background:"linear-gradient(90deg, rgba(255,255,255,0.98) 0%, rgba(255,255,255,0.95) 45%, rgba(255,255,255,0.85) 100%)"}})]}),r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:34:7",className:"relative z-10 section-padding",children:r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:35:9",className:"grid lg:grid-cols-2 gap-8 lg:gap-12 items-center max-w-6xl mx-auto",children:[r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:37:11",children:[r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:39:13",className:"inline-flex items-center gap-2 mb-6",children:[r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:40:15",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:41:15",className:"label-text text-[#E63946]",children:Ft.label})]}),r.jsx("h2",{"code-path":"src/sections/SimplePricing.tsx:45:13",className:"heading-xl text-[#1A1A1A] mb-4",children:Ft.headline.map((u,f)=>r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:47:17",className:"block",children:u},f))}),r.jsx("p",{"code-path":"src/sections/SimplePricing.tsx:52:13",className:"text-lg lg:text-xl text-[#666666] mb-8",children:Ft.subheadline}),r.jsxs("button",{"code-path":"src/sections/SimplePricing.tsx:57:13",onClick:s,className:"btn-primary text-base group",children:[Ft.cta.label,r.jsx(Ps,{"code-path":"src/sections/SimplePricing.tsx:59:15",className:"w-4 h-4 ml-2 transition-transform group-hover:translate-x-1"})]})]}),r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:64:11",children:r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:65:13",className:"bg-white rounded-3xl shadow-[0_8px_48px_rgba(0,0,0,0.12)] p-6 lg:p-8",children:[r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:67:15",className:"inline-flex items-center gap-2 px-3 py-1.5 bg-[#E63946]/10 rounded-full mb-6",children:[r.jsx(Uv,{"code-path":"src/sections/SimplePricing.tsx:68:17",className:"w-4 h-4 text-[#E63946]"}),r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:69:17",className:"text-xs font-semibold text-[#E63946]",children:Ft.card.badge})]}),r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:75:15",className:"mb-6",children:[r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:76:17",className:"flex items-baseline gap-1",children:[r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:77:19",className:"text-5xl lg:text-6xl font-extrabold text-[#1A1A1A]",children:Ft.card.price}),r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:80:19",className:"text-xl text-[#666666]",children:Ft.card.period})]}),r.jsx("p",{"code-path":"src/sections/SimplePricing.tsx:82:17",className:"text-sm text-[#666666] mt-2",children:Ft.card.note})]}),r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:88:15",className:"grid grid-cols-2 gap-3 mb-6",children:Ft.card.infoBoxes.map(u=>r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:90:19",className:`rounded-xl p-4 ${u.highlight?"bg-[#E63946]/10":"bg-[#F5F5F7]"}`,children:[r.jsx("p",{"code-path":"src/sections/SimplePricing.tsx:94:21",className:`text-xs mb-1 ${u.highlight?"text-[#E63946]":"text-[#666666]"}`,children:u.label}),r.jsx("p",{"code-path":"src/sections/SimplePricing.tsx:97:21",className:`text-lg font-bold ${u.highlight?"text-[#E63946]":"text-[#1A1A1A]"}`,children:u.value})]},u.label))}),r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:105:15",className:"space-y-2 mb-6",children:Ft.card.features.map(u=>r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:107:19",className:"flex items-center gap-2",children:[r.jsx(Oo,{"code-path":"src/sections/SimplePricing.tsx:108:21",className:"w-4 h-4 text-green-600 flex-shrink-0"}),r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:109:21",className:"text-sm text-[#1A1A1A]",children:u})]},u))}),r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:115:15",className:"border-t border-black/5 pt-4",children:[r.jsx("p",{"code-path":"src/sections/SimplePricing.tsx:116:17",className:"text-xs font-semibold text-[#666666] uppercase tracking-wider mb-3",children:"Pilot Benefits"}),r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:119:17",className:"space-y-2",children:Ft.card.benefits.map(u=>r.jsxs("div",{"code-path":"src/sections/SimplePricing.tsx:121:21",className:"flex items-start gap-2",children:[r.jsx("div",{"code-path":"src/sections/SimplePricing.tsx:122:23",className:"w-1.5 h-1.5 bg-[#E63946] rounded-sm mt-1.5 flex-shrink-0"}),r.jsx("span",{"code-path":"src/sections/SimplePricing.tsx:123:23",className:"text-sm text-[#666666]",children:u})]},u))})]})]})})]})})]})}function ly(){return r.jsx("section",{"code-path":"src/sections/SimpleGlobalStandard.tsx:5:5",id:"global-standard",className:"relative w-full py-20 lg:py-28 bg-[#1A1A1A]",children:r.jsxs("div",{"code-path":"src/sections/SimpleGlobalStandard.tsx:9:7",className:"section-padding",children:[r.jsxs("div",{"code-path":"src/sections/SimpleGlobalStandard.tsx:11:9",className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{"code-path":"src/sections/SimpleGlobalStandard.tsx:12:11",className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{"code-path":"src/sections/SimpleGlobalStandard.tsx:13:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleGlobalStandard.tsx:14:13",className:"label-text text-[#E63946]",children:Ei.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleGlobalStandard.tsx:17:11",className:"heading-lg text-white mb-4",children:Ei.headline.map((s,u)=>r.jsx("span",{"code-path":"src/sections/SimpleGlobalStandard.tsx:19:15",className:"block",children:s},u))}),r.jsx("p",{"code-path":"src/sections/SimpleGlobalStandard.tsx:23:11",className:"text-lg text-white/70 max-w-2xl mx-auto",children:Ei.subheadline})]}),r.jsx("div",{"code-path":"src/sections/SimpleGlobalStandard.tsx:29:9",className:"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4 lg:gap-5 max-w-6xl mx-auto mb-10",children:Ei.countries.map(s=>r.jsxs("div",{"code-path":"src/sections/SimpleGlobalStandard.tsx:31:13",className:`rounded-2xl p-5 lg:p-6 ${s.highlight?"bg-[#E63946]/10 border-2 border-[#E63946]/40":"bg-white/5 border border-white/10"}`,children:[r.jsx("div",{"code-path":"src/sections/SimpleGlobalStandard.tsx:39:15",className:"text-3xl mb-3",children:s.flag}),r.jsx("h3",{"code-path":"src/sections/SimpleGlobalStandard.tsx:40:15",className:"text-lg font-bold text-white mb-1",children:s.name}),r.jsx("p",{"code-path":"src/sections/SimpleGlobalStandard.tsx:41:15",className:`text-sm font-semibold mb-2 ${s.highlight?"text-[#E63946]":"text-white/80"}`,children:s.stat}),r.jsx("p",{"code-path":"src/sections/SimpleGlobalStandard.tsx:44:15",className:"text-sm text-white/60 leading-relaxed",children:s.description})]},s.name))}),r.jsxs("p",{"code-path":"src/sections/SimpleGlobalStandard.tsx:52:9",className:"text-center text-white/50 italic max-w-3xl mx-auto",children:['"',Ei.quote,'"']})]})})}function CardiologistQuotes(){return r.jsx("section",{id:"expert-voices",className:"relative w-full py-20 lg:py-28 bg-white",children:r.jsxs("div",{className:"section-padding max-w-6xl mx-auto",children:[r.jsxs("div",{className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{className:"label-text text-[#E63946]",children:"EXPERT VOICES"})]}),r.jsx("h2",{className:"heading-lg text-[#1A1A1A] mb-4",children:"What India’s leading cardiologists are saying"}),r.jsx("p",{className:"text-lg text-[#666666] max-w-2xl mx-auto",children:"India’s top cardiac specialists have been raising the alarm for years. The message is clear."})]}),r.jsxs("div",{className:"grid grid-cols-1 lg:grid-cols-2 gap-6",children:[r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl p-6 lg:p-8 border-l-4 border-[#E63946]",children:[r.jsx("p",{className:"text-4xl text-[#E63946] mb-2 font-serif",children:"“"}),r.jsx("p",{className:"text-[#1A1A1A] text-base leading-relaxed mb-6",children:"After a cardiac arrest there are four to six minutes before brain death and death occur. Chances of survival reduce by 7–10 percent with every passing minute. It is a silent epidemic and the Indian population should beware."}),r.jsxs("div",{className:"border-t border-[#1A1A1A]/10 pt-4",children:[r.jsx("p",{className:"font-bold text-[#1A1A1A] text-sm",children:"Dr. Balbir Singh"}),r.jsx("p",{className:"text-[#666666] text-sm",children:"Group Chairman, Cardiac Sciences — Max Hospitals, Delhi"}),r.jsx("p",{className:"text-[#666666] text-xs mt-1",children:"Source: Business Standard"})]})]}),r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl p-6 lg:p-8 border-l-4 border-[#E63946]",children:[r.jsx("p",{className:"text-4xl text-[#E63946] mb-2 font-serif",children:"“"}),r.jsx("p",{className:"text-[#1A1A1A] text-base leading-relaxed mb-6",children:"Sudden cardiac arrest happens in many people with no history of heart disease — this comes out of the blue and unannounced. The incidence in Indians is much higher and happens at least a decade earlier than in the west. This means our younger population is at risk."}),r.jsxs("div",{className:"border-t border-[#1A1A1A]/10 pt-4",children:[r.jsx("p",{className:"font-bold text-[#1A1A1A] text-sm",children:"Dr. Balbir Singh"}),r.jsx("p",{className:"text-[#666666] text-sm",children:"Group Chairman, Cardiac Sciences — Max Hospitals, Delhi"}),r.jsx("p",{className:"text-[#666666] text-xs mt-1",children:"Source: Max Healthcare Blog"})]})]}),r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl p-6 lg:p-8 border-l-4 border-[#1A1A1A]",children:[r.jsx("p",{className:"text-4xl text-[#1A1A1A] mb-2 font-serif",children:"“"}),r.jsx("p",{className:"text-[#1A1A1A] text-base leading-relaxed mb-6",children:"Improving CPR training and increasing AED availability in public areas can effectively tackle sudden cardiac arrest cases in India. Collaboration between government agencies, private organisations, and the public is crucial for success."}),r.jsxs("div",{className:"border-t border-[#1A1A1A]/10 pt-4",children:[r.jsx("p",{className:"font-bold text-[#1A1A1A] text-sm",children:"Indian Medical Researchers"}),r.jsx("p",{className:"text-[#666666] text-sm",children:"Rangaraya Medical College & Government Medical College, Andhra Pradesh"}),r.jsx("p",{className:"text-[#666666] text-xs mt-1",children:"Source: Resuscitation Plus, PubMed 2023"})]})]}),r.jsxs("div",{className:"bg-[#F5F5F7] rounded-2xl p-6 lg:p-8 border-l-4 border-[#1A1A1A]",children:[r.jsx("p",{className:"text-4xl text-[#1A1A1A] mb-2 font-serif",children:"“"}),r.jsx("p",{className:"text-[#1A1A1A] text-base leading-relaxed mb-6",children:"SCD remains a largely silent epidemic in the Indian context, where awareness of its risk factors, early warning signs, and emergency response strategies is alarmingly low."}),r.jsxs("div",{className:"border-t border-[#1A1A1A]/10 pt-4",children:[r.jsx("p",{className:"font-bold text-[#1A1A1A] text-sm",children:"Peer-Reviewed Research"}),r.jsx("p",{className:"text-[#666666] text-sm",children:"European Journal of Cardiovascular Medicine"}),r.jsx("p",{className:"text-[#666666] text-xs mt-1",children:"Source: healthcare-bulletin.co.uk, 2025"})]})]})]})]})})}
 function ny(){const[s,u]=z.useState(null),f=o=>{u(s===o?null:o)};return r.jsx("section",{"code-path":"src/sections/SimpleFAQ.tsx:13:5",id:"faq",className:"relative w-full py-20 lg:py-28 bg-white",children:r.jsxs("div",{"code-path":"src/sections/SimpleFAQ.tsx:17:7",className:"section-padding",children:[r.jsxs("div",{"code-path":"src/sections/SimpleFAQ.tsx:19:9",className:"text-center mb-12 lg:mb-16",children:[r.jsxs("div",{"code-path":"src/sections/SimpleFAQ.tsx:20:11",className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{"code-path":"src/sections/SimpleFAQ.tsx:21:13",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleFAQ.tsx:22:13",className:"label-text text-[#E63946]",children:Eo.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleFAQ.tsx:24:11",className:"heading-lg text-[#1A1A1A]",children:Eo.headline})]}),r.jsx("div",{"code-path":"src/sections/SimpleFAQ.tsx:28:9",className:"max-w-3xl mx-auto space-y-0",children:Eo.faqs.map((o,h)=>r.jsxs("div",{"code-path":"src/sections/SimpleFAQ.tsx:30:13",className:"border-b border-black/10 first:border-t",children:[r.jsxs("button",{"code-path":"src/sections/SimpleFAQ.tsx:34:15",onClick:()=>f(h),className:"w-full flex items-center justify-between py-5 lg:py-6 text-left group",children:[r.jsx("span",{"code-path":"src/sections/SimpleFAQ.tsx:38:17",className:"text-base lg:text-lg font-semibold text-[#1A1A1A] pr-4 group-hover:text-[#E63946] transition-colors",children:o.question}),r.jsx("div",{"code-path":"src/sections/SimpleFAQ.tsx:41:17",className:`w-8 h-8 rounded-full flex items-center justify-center flex-shrink-0 transition-colors ${s===h?"bg-[#E63946]":"bg-[#F5F5F7]"}`,children:s===h?r.jsx(zv,{"code-path":"src/sections/SimpleFAQ.tsx:45:21",className:"w-4 h-4 text-white"}):r.jsx(Dv,{"code-path":"src/sections/SimpleFAQ.tsx:47:21",className:"w-4 h-4 text-[#666666]"})})]}),r.jsx("div",{"code-path":"src/sections/SimpleFAQ.tsx:51:15",className:`overflow-hidden transition-all duration-300 ${s===h?"max-h-96 pb-5 lg:pb-6":"max-h-0"}`,children:r.jsx("p",{"code-path":"src/sections/SimpleFAQ.tsx:56:17",className:"text-[#666666] leading-relaxed",children:o.answer})})]},h))})]})})}function iy(){const[s,u]=z.useState({name:"",company:"",phone:"",organizationType:"",message:""}),f=async p=>{p.preventDefault();try{const res=await fetch("https://formspree.io/f/xaqlqjen",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify({name:s.name,company:s.company,phone:s.phone,organizationType:s.organizationType,message:s.message})});if(res.ok){Lg.success("Thank you! We will contact you within one business day.");u({name:"",company:"",phone:"",organizationType:"",message:""})}else{Lg.error("Something went wrong. Please email us directly at werevive2026@gmail.com")}}catch(e){Lg.error("Something went wrong. Please email us directly at werevive2026@gmail.com")}},o=p=>{u({...s,[p.target.name]:p.target.value})},h=bn.form.fields;return r.jsx("section",{"code-path":"src/sections/SimpleContact.tsx:37:5",id:"contact",className:"relative w-full py-20 lg:py-28 bg-[#F5F5F7]",children:r.jsx("div",{"code-path":"src/sections/SimpleContact.tsx:41:7",className:"section-padding",children:r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:42:9",className:"grid lg:grid-cols-2 gap-12 lg:gap-16 max-w-6xl mx-auto",children:[r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:44:11",children:[r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:45:13",className:"inline-flex items-center gap-2 mb-4",children:[r.jsx("span",{"code-path":"src/sections/SimpleContact.tsx:46:15",className:"w-2 h-2 bg-[#E63946] rounded-sm"}),r.jsx("span",{"code-path":"src/sections/SimpleContact.tsx:47:15",className:"label-text text-[#E63946]",children:bn.label})]}),r.jsx("h2",{"code-path":"src/sections/SimpleContact.tsx:50:13",className:"heading-lg text-[#1A1A1A] mb-4",children:bn.headline}),r.jsx("p",{"code-path":"src/sections/SimpleContact.tsx:54:13",className:"body-text text-lg mb-10",children:bn.subheadline}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:59:13",className:"space-y-5",children:[r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:60:15",className:"flex items-center gap-4",children:[r.jsx("div",{"code-path":"src/sections/SimpleContact.tsx:61:17",className:"w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm",children:r.jsx(Av,{"code-path":"src/sections/SimpleContact.tsx:62:19",className:"w-5 h-5 text-[#E63946]"})}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:64:17",children:[r.jsx("p",{"code-path":"src/sections/SimpleContact.tsx:65:19",className:"text-xs text-[#666666] uppercase tracking-wider",children:"Email"}),r.jsx("a",{"code-path":"src/sections/SimpleContact.tsx:66:19",href:`mailto:${lt.email}`,className:"text-[#1A1A1A] font-medium hover:text-[#E63946] transition-colors",children:lt.email})]})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:72:15",className:"flex items-center gap-4",children:[r.jsx("div",{"code-path":"src/sections/SimpleContact.tsx:73:17",className:"w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm",children:r.jsx(Cv,{"code-path":"src/sections/SimpleContact.tsx:74:19",className:"w-5 h-5 text-[#E63946]"})}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:76:17",children:[r.jsx("p",{"code-path":"src/sections/SimpleContact.tsx:77:19",className:"text-xs text-[#666666] uppercase tracking-wider",children:"Phone"}),r.jsx("a",{"code-path":"src/sections/SimpleContact.tsx:78:19",href:`tel:${lt.phone.replace(/\s/g,"")}`,className:"text-[#1A1A1A] font-medium hover:text-[#E63946] transition-colors",children:lt.phone})]})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:84:15",className:"flex items-center gap-4",children:[r.jsx("div",{"code-path":"src/sections/SimpleContact.tsx:85:17",className:"w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm",children:r.jsx(xh,{"code-path":"src/sections/SimpleContact.tsx:86:19",className:"w-5 h-5 text-[#E63946]"})}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:88:17",children:[r.jsx("p",{"code-path":"src/sections/SimpleContact.tsx:89:19",className:"text-xs text-[#666666] uppercase tracking-wider",children:"Location"}),r.jsx("p",{"code-path":"src/sections/SimpleContact.tsx:90:19",className:"text-[#1A1A1A] font-medium",children:lt.location})]})]})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:98:13",className:"flex items-center gap-4 mt-8",children:[r.jsx("a",{"code-path":"src/sections/SimpleContact.tsx:99:15",href:"https://www.linkedin.com/in/sb111",target:"_blank",rel:"noopener noreferrer",className:"w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm hover:bg-[#E63946] hover:text-white transition-colors group",children:r.jsx(yh,{"code-path":"src/sections/SimpleContact.tsx:105:17",className:"w-5 h-5 text-[#666666] group-hover:text-white"})}),r.jsx("a",{"code-path":"src/sections/SimpleContact.tsx:107:15",href:"https://www.instagram.com/werevive.in",target:"_blank",rel:"noopener noreferrer",className:"w-10 h-10 bg-white rounded-lg flex items-center justify-center shadow-sm hover:bg-[#E63946] hover:text-white transition-colors group",children:r.jsx(vh,{"code-path":"src/sections/SimpleContact.tsx:113:17",className:"w-5 h-5 text-[#666666] group-hover:text-white"})})]})]}),r.jsx("div",{"code-path":"src/sections/SimpleContact.tsx:119:11",children:r.jsx("form",{"code-path":"src/sections/SimpleContact.tsx:120:13",onSubmit:f,className:"bg-white rounded-2xl p-6 lg:p-8 shadow-[0_4px_24px_rgba(0,0,0,0.06)]",children:r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:121:15",className:"space-y-5",children:[r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:123:17",children:[r.jsxs("label",{"code-path":"src/sections/SimpleContact.tsx:124:19",htmlFor:"name",className:"block text-sm font-medium text-[#1A1A1A] mb-2",children:[h.name.label," ","*"]}),r.jsx("input",{"code-path":"src/sections/SimpleContact.tsx:127:19",type:"text",id:"name",name:"name",value:s.name,onChange:o,required:h.name.required,className:"w-full px-4 py-3 bg-[#F5F5F7] rounded-xl border-0 text-[#1A1A1A] placeholder:text-[#999] focus:ring-2 focus:ring-[#E63946]/20 transition-shadow",placeholder:h.name.placeholder})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:140:17",children:[r.jsxs("label",{"code-path":"src/sections/SimpleContact.tsx:141:19",htmlFor:"company",className:"block text-sm font-medium text-[#1A1A1A] mb-2",children:[h.company.label," ","*"]}),r.jsx("input",{"code-path":"src/sections/SimpleContact.tsx:144:19",type:"text",id:"company",name:"company",value:s.company,onChange:o,required:h.company.required,className:"w-full px-4 py-3 bg-[#F5F5F7] rounded-xl border-0 text-[#1A1A1A] placeholder:text-[#999] focus:ring-2 focus:ring-[#E63946]/20 transition-shadow",placeholder:h.company.placeholder})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:157:17",children:[r.jsxs("label",{"code-path":"src/sections/SimpleContact.tsx:158:19",htmlFor:"phone",className:"block text-sm font-medium text-[#1A1A1A] mb-2",children:[h.phone.label," ","*"]}),r.jsx("input",{"code-path":"src/sections/SimpleContact.tsx:161:19",type:"tel",id:"phone",name:"phone",value:s.phone,onChange:o,required:h.phone.required,className:"w-full px-4 py-3 bg-[#F5F5F7] rounded-xl border-0 text-[#1A1A1A] placeholder:text-[#999] focus:ring-2 focus:ring-[#E63946]/20 transition-shadow",placeholder:h.phone.placeholder})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:174:17",children:[r.jsxs("label",{"code-path":"src/sections/SimpleContact.tsx:175:19",htmlFor:"organizationType",className:"block text-sm font-medium text-[#1A1A1A] mb-2",children:[h.organizationType.label," ","*"]}),r.jsx("select",{"code-path":"src/sections/SimpleContact.tsx:178:19",id:"organizationType",name:"organizationType",value:s.organizationType,onChange:o,required:h.organizationType.required,className:"w-full px-4 py-3 bg-[#F5F5F7] rounded-xl border-0 text-[#1A1A1A] focus:ring-2 focus:ring-[#E63946]/20 transition-shadow appearance-none cursor-pointer",children:h.organizationType.options?.map(p=>r.jsx("option",{"code-path":"src/sections/SimpleContact.tsx:187:23",value:p.value,children:p.label},p.value))})]}),r.jsxs("div",{"code-path":"src/sections/SimpleContact.tsx:195:17",children:[r.jsxs("label",{"code-path":"src/sections/SimpleContact.tsx:196:19",htmlFor:"message",className:"block text-sm font-medium text-[#1A1A1A] mb-2",children:[h.message.label," ",r.jsx("span",{"code-path":"src/sections/SimpleContact.tsx:197:73",className:"text-[#999]",children:"(optional)"})]}),r.jsx("textarea",{"code-path":"src/sections/SimpleContact.tsx:199:19",id:"message",name:"message",value:s.message,onChange:o,rows:4,className:"w-full px-4 py-3 bg-[#F5F5F7] rounded-xl border-0 text-[#1A1A1A] placeholder:text-[#999] focus:ring-2 focus:ring-[#E63946]/20 transition-shadow resize-none",placeholder:h.message.placeholder})]}),r.jsxs("button",{"code-path":"src/sections/SimpleContact.tsx:211:17",type:"submit",className:"btn-primary w-full group",children:[bn.form.submitLabel,r.jsx(Ps,{"code-path":"src/sections/SimpleContact.tsx:216:19",className:"w-4 h-4 ml-2 transition-transform group-hover:translate-x-1"})]}),r.jsx("p",{"code-path":"src/sections/SimpleContact.tsx:219:17",className:"text-center text-sm text-[#666666]",children:bn.form.responseText})]})})})]})})})}function Wa(){return r.jsx("a",{href:"https://wa.me/919811727478?text=Hi%20WeRevive%2C%20I%20am%20interested%20in%20learning%20more%20about%20your%20AED%20subscription%20service.",target:"_blank",rel:"noopener noreferrer","aria-label":"Chat on WhatsApp",style:{position:"fixed",bottom:"24px",right:"24px",zIndex:9999,width:"56px",height:"56px",borderRadius:"50%",backgroundColor:"#25D366",display:"flex",alignItems:"center",justifyContent:"center",boxShadow:"0 4px 12px rgba(0,0,0,0.2)",transition:"transform 0.2s"},onMouseEnter:e=>{e.currentTarget.style.transform="scale(1.1)"},onMouseLeave:e=>{e.currentTarget.style.transform="scale(1)"},children:r.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"white",width:"28",height:"28",children:r.jsx("path",{d:"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"})})})}function Bo(){const s=u=>{if(u.startsWith("#")){const f=document.getElementById(u.slice(1));f&&f.scrollIntoView({behavior:"smooth"})}};return r.jsxs("footer",{"code-path":"src/sections/SimpleFooter.tsx:16:5",className:"w-full bg-[#1A1A1A] text-white",children:[r.jsx("div",{"code-path":"src/sections/SimpleFooter.tsx:17:7",className:"section-padding py-12 lg:py-16",children:r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:18:9",className:"grid grid-cols-1 md:grid-cols-3 gap-10 lg:gap-16 max-w-6xl mx-auto",children:[r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:20:11",children:[r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:21:13",className:"flex items-center gap-2 mb-4",children:[r.jsx("img",{"code-path":"src/sections/SimpleFooter.tsx:22:15",src:"/images/logo.png",alt:lt.name,className:"w-10 h-10"}),r.jsx("span",{"code-path":"src/sections/SimpleFooter.tsx:27:15",className:"font-bold text-xl tracking-tight",children:lt.name})]}),r.jsxs("p",{"code-path":"src/sections/SimpleFooter.tsx:29:13",className:"text-white/60 flex items-center gap-2",children:[lt.tagline,r.jsx(bv,{"code-path":"src/sections/SimpleFooter.tsx:31:15",className:"w-4 h-4 text-[#E63946] fill-[#E63946]"})]})]}),r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:36:11",children:[r.jsx("h4",{"code-path":"src/sections/SimpleFooter.tsx:37:13",className:"text-sm font-semibold uppercase tracking-wider text-white/40 mb-4",children:"Quick Links"}),r.jsx("nav",{"code-path":"src/sections/SimpleFooter.tsx:40:13",className:"grid grid-cols-2 gap-2",children:No.quickLinks.map(u=>u.href.startsWith("/")?r.jsx(oa,{"code-path":"src/sections/SimpleFooter.tsx:43:19",to:u.href,className:"text-left text-white/70 hover:text-[#E63946] transition-colors py-1",children:u.label},u.href):r.jsx("button",{"code-path":"src/sections/SimpleFooter.tsx:51:19",onClick:()=>s(u.href),className:"text-left text-white/70 hover:text-[#E63946] transition-colors py-1",children:u.label},u.href))})]}),r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:64:11",children:[r.jsx("h4",{"code-path":"src/sections/SimpleFooter.tsx:65:13",className:"text-sm font-semibold uppercase tracking-wider text-white/40 mb-4",children:"Connect"}),r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:68:13",className:"flex items-center gap-3",children:[r.jsx("a",{"code-path":"src/sections/SimpleFooter.tsx:69:15",href:"https://www.linkedin.com/in/sb111",target:"_blank",rel:"noopener noreferrer",className:"w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-[#E63946] transition-colors",children:r.jsx(yh,{"code-path":"src/sections/SimpleFooter.tsx:75:17",className:"w-5 h-5"})}),r.jsx("a",{"code-path":"src/sections/SimpleFooter.tsx:77:15",href:"https://www.instagram.com/werevive.in",target:"_blank",rel:"noopener noreferrer",className:"w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center hover:bg-[#E63946] transition-colors",children:r.jsx(vh,{"code-path":"src/sections/SimpleFooter.tsx:83:17",className:"w-5 h-5"})})]})]})]})}),r.jsx("div",{"code-path":"src/sections/SimpleFooter.tsx:91:7",className:"border-t border-white/10",children:r.jsx("div",{"code-path":"src/sections/SimpleFooter.tsx:92:9",className:"section-padding py-6",children:r.jsxs("div",{"code-path":"src/sections/SimpleFooter.tsx:93:11",className:"flex flex-col md:flex-row items-center justify-between gap-4 max-w-6xl mx-auto",children:[r.jsx("p",{"code-path":"src/sections/SimpleFooter.tsx:94:13",className:"text-sm text-white/40",children:No.copyright}),r.jsx("div",{"code-path":"src/sections/SimpleFooter.tsx:97:13",className:"flex items-center gap-6",children:No.legal.map(u=>r.jsx("a",{"code-path":"src/sections/SimpleFooter.tsx:99:17",href:u.href,className:"text-sm text-white/40 hover:text-white transition-colors",children:u.label},u.label))})]})})})]})}function sy(){return r.jsxs(r.Fragment,{children:[r.jsx(Ho,{"code-path":"src/pages/HomePage.tsx:17:7"}),r.jsxs("main",{"code-path":"src/pages/HomePage.tsx:18:7",children:[r.jsx(Jv,{"code-path":"src/pages/HomePage.tsx:19:9"}),r.jsx(Fv,{"code-path":"src/pages/HomePage.tsx:20:9"}),r.jsx(AEDExplainer,{"code-path":"src/pages/HomePage.tsx:20b:9"}),r.jsx(CardiacArrestSection,{}),r.jsx(Wv,{"code-path":"src/pages/HomePage.tsx:21:9"}),r.jsx(Pv,{"code-path":"src/pages/HomePage.tsx:22:9"}),r.jsx(Iv,{"code-path":"src/pages/HomePage.tsx:23:9"}),r.jsx(ty,{"code-path":"src/pages/HomePage.tsx:24:9"}),r.jsx(ay,{"code-path":"src/pages/HomePage.tsx:25:9"}),r.jsx(ly,{"code-path":"src/pages/HomePage.tsx:26:9"}),r.jsx(CardiologistQuotes,{}),r.jsx(ny,{"code-path":"src/pages/HomePage.tsx:27:9"}),r.jsx(iy,{"code-path":"src/pages/HomePage.tsx:28:9"})]}),r.jsx(Wa,{}),r.jsx(Bo,{"code-path":"src/pages/HomePage.tsx:30:7"})]})}function cy(){const s=Kv();return r.jsxs("div",{"code-path":"src/pages/BlogPage.tsx:11:5",className:"min-h-screen bg-white",children:[r.jsx(Ho,{"code-path":"src/pages/BlogPage.tsx:12:7"}),r.jsx("div",{"code-path":"src/pages/BlogPage.tsx:15:7",className:"pt-24 pb-8 bg-[#F5F5F7]",children:r.jsxs("div",{"code-path":"src/pages/BlogPage.tsx:16:9",className:"section-padding",children:[r.jsxs(oa,{"code-path":"src/pages/BlogPage.tsx:17:11",to:"/",className:"inline-flex items-center gap-2 text-[#666666] hover:text-[#E63946] transition-colors mb-6",children:[r.jsx(gh,{"code-path":"src/pages/BlogPage.tsx:21:13",className:"w-4 h-4"}),r.jsx("span",{"code-path":"src/pages/BlogPage.tsx:22:13",className:"text-sm font-medium",children:"Back to Home"})]}),r.jsx("h1",{"code-path":"src/pages/BlogPage.tsx:24:11",className:"heading-xl text-[#1A1A1A] text-center",children:"Blog"}),r.jsx("p",{"code-path":"src/pages/BlogPage.tsx:25:11",className:"text-[#666666] mt-2 max-w-xl text-center mx-auto",children:"Insights on cardiac safety, AED technology, and workplace wellness from the WeRevive team."})]})}),r.jsx("div",{"code-path":"src/pages/BlogPage.tsx:32:7",className:"section-padding py-12 lg:py-16",children:r.jsx("div",{"code-path":"src/pages/BlogPage.tsx:33:9",className:"max-w-4xl mx-auto",children:r.jsx("div",{"code-path":"src/pages/BlogPage.tsx:34:11",className:"grid gap-8",children:s.map(u=>r.jsxs("article",{"code-path":"src/pages/BlogPage.tsx:36:15",className:"bg-white border border-black/5 rounded-2xl p-6 lg:p-8 hover:shadow-[0_8px32px_rgba(0,0,0,0.08)] transition-shadow duration-300",children:[r.jsxs("div",{"code-path":"src/pages/BlogPage.tsx:40:17",className:"flex flex-wrap items-center gap-3 mb-4",children:[r.jsxs("span",{"code-path":"src/pages/BlogPage.tsx:41:19",className:"inline-flex items-center gap-1.5 px-3 py-1 bg-[#E63946]/10 rounded-full text-xs font-semibold text-[#E63946]",children:[r.jsx(bh,{"code-path":"src/pages/BlogPage.tsx:42:21",className:"w-3 h-3"}),u.category]}),r.jsx("span",{"code-path":"src/pages/BlogPage.tsx:45:19",className:"text-sm text-[#666666]",children:u.date}),r.jsx("span",{"code-path":"src/pages/BlogPage.tsx:46:19",className:"text-sm text-[#666666]",children:u.readTime})]}),r.jsx(oa,{"code-path":"src/pages/BlogPage.tsx:49:17",to:`/blog/${u.slug}`,children:r.jsx("h2",{"code-path":"src/pages/BlogPage.tsx:50:19",className:"text-xl lg:text-2xl font-bold text-[#1A1A1A] mb-3 hover:text-[#E63946] transition-colors",children:u.title})}),r.jsx("p",{"code-path":"src/pages/BlogPage.tsx:55:17",className:"text-[#666666] mb-6 line-clamp-2",children:u.excerpt}),r.jsxs("div",{"code-path":"src/pages/BlogPage.tsx:59:17",className:"flex items-center gap-3",children:[r.jsx("div",{"code-path":"src/pages/BlogPage.tsx:60:19",className:"w-8 h-8 bg-[#F5F5F7] rounded-full flex items-center justify-center",children:r.jsx("span",{"code-path":"src/pages/BlogPage.tsx:61:21",className:"text-sm font-semibold text-[#666666]",children:u.author.initials})}),r.jsxs("div",{"code-path":"src/pages/BlogPage.tsx:63:19",children:[r.jsx("p",{"code-path":"src/pages/BlogPage.tsx:64:21",className:"text-sm font-medium text-[#1A1A1A]",children:u.author.name}),r.jsx("p",{"code-path":"src/pages/BlogPage.tsx:65:21",className:"text-xs text-[#666666]",children:u.author.title})]})]})]},u.slug))})})}),r.jsx(Bo,{"code-path":"src/pages/BlogPage.tsx:74:7"})]})}function uy(){const{slug:s}=T1(),u=s?kv(s):void 0;if(!u)return r.jsx(L1,{"code-path":"src/pages/BlogPostPage.tsx:12:12",to:"/blog",replace:!0});const f=o=>{const h=o.split(`
