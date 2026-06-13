@@ -1,0 +1,541 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap');
+
+  *{box-sizing:border-box;margin:0;padding:0}
+  :root{
+    --red:#B22222;--red-light:#FDEAEA;--red-dark:#8B1111;
+    --amber:#C17B00;--amber-light:#FFF8E6;
+    --green:#1A6B3C;--green-light:#EAF5EF;
+    --dark:#1C1410;--mid:#6B5B4E;--light:#F8F3EE;
+    --white:#FFFFFF;--border:#E8DDD6;
+  }
+  body{font-family:'DM Sans',sans-serif;background:var(--light);color:var(--dark);min-height:100vh;padding:0}
+
+  /* INTRO SCREEN */
+  #intro{padding:40px 32px;max-width:640px;margin:0 auto}
+  .wr-logo{font-family:'DM Serif Display',serif;font-size:28px;color:var(--red);margin-bottom:4px}
+  .wr-tag{font-size:12px;color:var(--mid);letter-spacing:.08em;text-transform:uppercase;margin-bottom:40px}
+  .intro-title{font-family:'DM Serif Display',serif;font-size:36px;line-height:1.15;color:var(--dark);margin-bottom:16px}
+  .intro-title em{color:var(--red);font-style:italic}
+  .intro-sub{font-size:15px;color:var(--mid);line-height:1.7;margin-bottom:32px}
+  .intro-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:36px}
+  .istat{background:var(--white);border:1px solid var(--border);border-radius:12px;padding:16px 12px;text-align:center}
+  .istat-num{font-family:'DM Serif Display',serif;font-size:26px;color:var(--red);line-height:1}
+  .istat-lbl{font-size:11px;color:var(--mid);margin-top:4px;line-height:1.4}
+  .start-btn{width:100%;padding:16px;background:var(--red);color:white;border:none;border-radius:12px;font-family:'DM Sans',sans-serif;font-size:16px;font-weight:600;cursor:pointer;letter-spacing:.02em;transition:background .2s}
+  .start-btn:hover{background:var(--red-dark)}
+  .disclaimer{font-size:11px;color:var(--mid);margin-top:12px;text-align:center;line-height:1.5}
+
+  /* QUIZ SCREEN */
+  #quiz{display:none;padding:24px 32px;max-width:640px;margin:0 auto}
+  .q-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+  .q-logo{font-family:'DM Serif Display',serif;font-size:18px;color:var(--red)}
+  .q-count{font-size:13px;color:var(--mid)}
+  .progress-bar{width:100%;height:4px;background:var(--border);border-radius:2px;margin-bottom:32px;overflow:hidden}
+  .progress-fill{height:100%;background:var(--red);border-radius:2px;transition:width .4s ease}
+  .q-category{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--red);margin-bottom:8px}
+  .q-text{font-family:'DM Serif Display',serif;font-size:22px;line-height:1.35;color:var(--dark);margin-bottom:8px}
+  .q-why{font-size:13px;color:var(--mid);line-height:1.6;margin-bottom:28px;padding:12px 14px;background:var(--white);border-left:3px solid var(--border);border-radius:0 8px 8px 0}
+  .options{display:flex;flex-direction:column;gap:10px}
+  .opt-btn{padding:14px 18px;border:1.5px solid var(--border);border-radius:10px;background:var(--white);font-family:'DM Sans',sans-serif;font-size:14px;font-weight:500;color:var(--dark);cursor:pointer;text-align:left;transition:all .15s;display:flex;justify-content:space-between;align-items:center}
+  .opt-btn:hover{border-color:var(--red);background:var(--red-light)}
+  .opt-btn.yes{border-color:var(--green);background:var(--green-light);color:var(--green)}
+  .opt-btn.no{border-color:var(--red);background:var(--red-light);color:var(--red)}
+  .opt-btn.partial{border-color:var(--amber);background:var(--amber-light);color:var(--amber)}
+  .opt-icon{font-size:18px}
+
+  /* RESULT SCREEN */
+  #result{display:none;padding:32px;max-width:640px;margin:0 auto}
+  .res-logo{font-family:'DM Serif Display',serif;font-size:18px;color:var(--red);margin-bottom:24px}
+  .score-ring-wrap{text-align:center;margin-bottom:32px}
+  .score-ring{display:inline-block;width:140px;height:140px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;flex-direction:column;border:6px solid var(--border);position:relative;margin-bottom:12px}
+  .score-num{font-family:'DM Serif Display',serif;font-size:42px;line-height:1;color:var(--dark)}
+  .score-denom{font-size:14px;color:var(--mid)}
+  .score-label{font-family:'DM Serif Display',serif;font-size:24px;color:var(--dark);margin-bottom:4px}
+  .score-sub{font-size:14px;color:var(--mid);line-height:1.6;margin-bottom:28px}
+  .gaps-title{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--mid);margin-bottom:12px}
+  .gap-item{display:flex;gap:12px;padding:14px;background:var(--white);border:1px solid var(--border);border-radius:10px;margin-bottom:8px;align-items:flex-start}
+  .gap-icon{width:28px;height:28px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;flex-shrink:0;margin-top:1px}
+  .gap-icon.red{background:var(--red-light);color:var(--red)}
+  .gap-icon.amber{background:var(--amber-light);color:var(--amber)}
+  .gap-text{font-size:13px;color:var(--dark);line-height:1.5}
+  .gap-text b{color:var(--dark);display:block;margin-bottom:2px}
+  .gap-fix{font-size:12px;color:var(--green);margin-top:3px;font-weight:500}
+  .cta-box{background:var(--red);border-radius:14px;padding:24px;margin-top:24px;text-align:center;color:white}
+  .cta-box h3{font-family:'DM Serif Display',serif;font-size:22px;margin-bottom:8px}
+  .cta-box p{font-size:13px;opacity:.85;line-height:1.6;margin-bottom:16px}
+  .cta-box a{display:inline-block;background:white;color:var(--red);padding:10px 24px;border-radius:8px;font-size:14px;font-weight:600;text-decoration:none}
+  .restart-btn{width:100%;padding:12px;background:transparent;border:1.5px solid var(--border);border-radius:10px;font-family:'DM Sans',sans-serif;font-size:14px;color:var(--mid);cursor:pointer;margin-top:10px}
+  .pass-item{display:flex;gap:10px;padding:10px 14px;background:var(--green-light);border-radius:8px;margin-bottom:6px;align-items:center;font-size:13px;color:var(--green)}
+
+  /* CONTACT SCREEN */
+  #contact{display:none;padding:40px 32px;max-width:640px;margin:0 auto}
+  .contact-title{font-family:'DM Serif Display',serif;font-size:28px;line-height:1.2;color:var(--dark);margin-bottom:8px}
+  .contact-sub{font-size:14px;color:var(--mid);line-height:1.6;margin-bottom:28px}
+  .field-group{margin-bottom:16px}
+  .field-label{font-size:13px;font-weight:600;color:var(--dark);margin-bottom:6px;display:block}
+  .field-input,.field-select,.field-textarea{width:100%;padding:13px 14px;border:1.5px solid var(--border);border-radius:10px;background:var(--white);font-family:'DM Sans',sans-serif;font-size:14px;color:var(--dark)}
+  .field-input:focus,.field-select:focus,.field-textarea:focus{outline:none;border-color:var(--red)}
+  .field-error{font-size:12px;color:var(--red);margin-top:4px;display:none}
+  .submitting-overlay{display:none;text-align:center;padding:60px 20px}
+  .submitting-overlay .wr-logo{margin-bottom:20px}
+</style>
+</head>
+<body>
+
+<!-- INTRO -->
+<div id="intro">
+  <div class="wr-logo">WeRevive</div>
+  <div class="wr-tag">Cardiac Safety Infrastructure</div>
+  <div class="intro-title">Is your premises truly <em>cardiac ready?</em></div>
+  <div class="intro-sub">Having an AED on paper and being cardiac ready are two completely different things. This 15-question audit — built on global AED program standards — tells you exactly where you stand.</div>
+  <div class="intro-stats">
+    <div class="istat"><div class="istat-num">3 min</div><div class="istat-lbl">Max time to reach & use an AED</div></div>
+    <div class="istat"><div class="istat-num">10%</div><div class="istat-lbl">Survival lost every minute without defibrillation</div></div>
+    <div class="istat"><div class="istat-num">90%</div><div class="istat-lbl">Of cardiac arrests start as shockable VF</div></div>
+  </div>
+  <button class="start-btn" onclick="showContactScreen()">Start the Audit →</button>
+  <div class="disclaimer">Takes 2 minutes · 15 questions · Free · No sign-up required</div>
+</div>
+
+<!-- CONTACT CAPTURE -->
+<div id="contact">
+  <div class="wr-logo">WeRevive</div>
+  <div class="contact-title">Before we begin — a few details</div>
+  <div class="contact-sub">We'll use this to send you a copy of your readiness report and, if you'd like, follow up with a free on-site assessment.</div>
+
+  <div class="field-group">
+    <label class="field-label">Full Name *</label>
+    <input type="text" class="field-input" id="cName" placeholder="Your full name">
+    <div class="field-error" id="errName">Please enter your name</div>
+  </div>
+  <div class="field-group">
+    <label class="field-label">Company / Society Name *</label>
+    <input type="text" class="field-input" id="cCompany" placeholder="Your company or society name">
+    <div class="field-error" id="errCompany">Please enter your organisation name</div>
+  </div>
+  <div class="field-group">
+    <label class="field-label">Email *</label>
+    <input type="email" class="field-input" id="cEmail" placeholder="you@company.com">
+    <div class="field-error" id="errEmail">Please enter a valid email</div>
+  </div>
+  <div class="field-group">
+    <label class="field-label">Phone Number *</label>
+    <input type="tel" class="field-input" id="cPhone" placeholder="+91 98765 43210">
+    <div class="field-error" id="errPhone">Please enter your phone number</div>
+  </div>
+  <div class="field-group">
+    <label class="field-label">Organisation Type *</label>
+    <select class="field-select" id="cOrgType">
+      <option value="">Select type</option>
+      <option value="Corporate Office">Corporate Office</option>
+      <option value="Residential Society">Residential Society</option>
+      <option value="Hotel / Hospitality">Hotel / Hospitality</option>
+      <option value="Gym / Fitness Facility">Gym / Fitness Facility</option>
+      <option value="Educational Institution">Educational Institution</option>
+      <option value="Other">Other</option>
+    </select>
+    <div class="field-error" id="errOrgType">Please select an organisation type</div>
+  </div>
+
+  <button class="start-btn" onclick="validateAndStart()">Start the Audit →</button>
+  <div class="disclaimer">Your details are only used to send you this report and relevant follow-up. No spam.</div>
+</div>
+
+<!-- QUIZ -->
+
+<div id="quiz">
+  <div class="q-header">
+    <div class="q-logo">WeRevive</div>
+    <div class="q-count" id="qCount">1 / 15</div>
+  </div>
+  <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+  <div class="q-category" id="qCat"></div>
+  <div class="q-text" id="qText"></div>
+  <div class="q-why" id="qWhy"></div>
+  <div class="options" id="options"></div>
+</div>
+
+<!-- SUBMITTING -->
+<div id="submitting" class="submitting-overlay">
+  <div class="wr-logo">WeRevive</div>
+  <div style="font-family:'DM Serif Display',serif;font-size:22px;color:var(--dark);margin-bottom:8px">Calculating your results...</div>
+  <div style="font-size:14px;color:var(--mid)">This will only take a moment.</div>
+</div>
+
+<!-- RESULT -->
+<div id="result">
+  <div class="res-logo">WeRevive Cardiac Readiness Report</div>
+  <div class="score-ring-wrap">
+    <div class="score-ring" id="scoreRing">
+      <div class="score-num" id="scoreNum">0</div>
+      <div class="score-denom" id="scoreDenom">/ 30</div>
+    </div>
+    <div class="score-label" id="scoreLabel"></div>
+    <div class="score-sub" id="scoreSub"></div>
+  </div>
+  <div class="gaps-title" id="gapsTitle">Critical Gaps Found</div>
+  <div id="gapsList"></div>
+  <div id="passList"></div>
+  <div class="cta-box">
+    <h3>Get a Free On-Site Assessment</h3>
+    <p>Your report has been sent to WeRevive. Our team will review it and reach out to schedule your free on-site assessment — or you can book directly below.</p>
+    <a href="https://werevive.in#contact">Book Your Assessment →</a>
+  </div>
+  <button class="restart-btn" onclick="restart()">← Retake Audit</button>
+</div>
+
+<script>
+const QUESTIONS = [
+  {
+    cat: "Device Availability",
+    text: "Does your premises have at least one AED device currently installed?",
+    why: "The global standard recommends at least one AED per floor for multi-story buildings. Without a device, no other preparation matters.",
+    opts: ["Yes, we have one or more AEDs","No, we do not have an AED","We had one but it was removed"],
+    scores: [2,0,0],
+    gaps: [null, "No AED on premises — the most critical gap. Every other question is irrelevant without a device.", "AED removed — device presence is the foundation of any cardiac safety program."],
+    fixes: [null, "WeRevive deploys a Philips HeartStart HS1 on subscription — no capital cost, installed within 7 days.", "WeRevive redeploys and maintains devices on a managed subscription basis."]
+  },
+  {
+    cat: "Device Placement",
+    text: "Can any person on your premises reach the AED and return to a victim within 3 minutes?",
+    why: "The international 3-minute rule is the gold standard. Every 60 seconds without defibrillation reduces survival by 10%. A device stored in a locked office or wrong floor fails this test.",
+    opts: ["Yes — we have tested this walk-time","Possibly, but we haven't tested it","No — it would take longer than 3 minutes"],
+    scores: [2,1,0],
+    gaps: [null, "Untested placement — a device that hasn't been walk-timed may fail the 3-minute rule in a real emergency.", "Placement fails the 3-minute rule — the device exists but cannot save a life where it currently sits."],
+    fixes: [null, "WeRevive conducts a 90-second walk-time audit as part of every Premium plan deployment.", "WeRevive's placement blueprint maps every site on the 90-second retrieval rule before installation."]
+  },
+  {
+    cat: "Device Placement",
+    text: "Is the AED accessible 24 hours a day, 7 days a week — including evenings, weekends, and holidays?",
+    why: "Cardiac arrests don't follow office hours. An AED locked in the admin office after 6pm is useless during a gym session or late-night security emergency.",
+    opts: ["Yes — always accessible","Only during office/working hours","Not sure"],
+    scores: [2,0,1],
+    gaps: [null, "AED inaccessible outside working hours — a cardiac arrest at 7pm or on a Sunday cannot be responded to.", "Accessibility unknown — this needs to be confirmed immediately."],
+    fixes: [null, "WeRevive installs lockable wall-mounted cabinets with alarmed access — available 24/7 to anyone on site.", "WeRevive's site audit confirms access hours and recommends cabinet type accordingly."]
+  },
+  {
+    cat: "Visibility & Signage",
+    text: "Are there clear, visible signs directing people to the AED from all key areas of your premises?",
+    why: "In the panic of a cardiac emergency, people cannot search for a device. Signage must guide a rescuer directly to the AED within seconds — from the gym, lobby, elevator, and each floor.",
+    opts: ["Yes — clear signs at multiple points","One sign near the device only","No signage at all"],
+    scores: [2,1,0],
+    gaps: [null, "Insufficient signage — one sign is not enough in a multi-zone facility. Panic reduces wayfinding ability.", "No signage — the AED might as well not exist if nobody can find it under stress."],
+    fixes: [null, "WeRevive installs directional signage at key decision points as part of every deployment.", "WeRevive's deployment includes full signage mapping as standard."]
+  },
+  {
+    cat: "High-Risk Zone Coverage",
+    text: "Does your premises have a separate AED in or adjacent to the gym, fitness area, or pool?",
+    why: "Vigorous exercise is the highest cardiac risk activity. The gym, pool, and fitness area have 3–5x higher cardiac arrest probability than other zones and require dedicated coverage — not shared access with a device one floor away.",
+    opts: ["Yes — dedicated AED in high-risk zone","No — we rely on one central device","We don't have a gym or fitness area"],
+    scores: [2,0,2],
+    gaps: [null, "High-risk zone uncovered — a central AED cannot meet the 3-minute rule for a cardiac event in the gym.", null],
+    fixes: [null, "WeRevive's placement blueprint always includes dedicated coverage for gym and fitness zones.", null]
+  },
+  {
+    cat: "Staff Training",
+    text: "Have your security guards and reception staff been trained to use the AED in the last 12 months?",
+    why: "Security and reception staff are the first responders in any cardiac event. Training expires — the 2025 AHA Guidelines confirm annual refreshers are required for confidence and retention. Untrained staff freeze under pressure.",
+    opts: ["Yes — trained within last 12 months","Trained more than 12 months ago","Never been trained"],
+    scores: [2,1,0],
+    gaps: [null, "Training expired — staff confidence and retention degrade significantly after 12 months without a refresher.", "No training — having a device without trained users is like having a fire extinguisher with no one who knows how to operate it."],
+    fixes: [null, "WeRevive includes annual refresher training in all Essential and Premium plans.", "WeRevive's initial deployment includes a hands-on training session for up to 10–20 staff members."]
+  },
+  {
+    cat: "Staff Training",
+    text: "Do more than 20% of your total staff or residents know how to perform CPR?",
+    why: "CPR should begin within 60 seconds of collapse — before the AED is even retrieved. If fewer than 1 in 5 people know CPR, the bystander response rate is too low to be reliable across all shifts and scenarios.",
+    opts: ["Yes — more than 20% are CPR trained","10–20% are trained","Less than 10% or unknown"],
+    scores: [2,1,0],
+    gaps: [null, "Low CPR coverage — 10–20% leaves significant time windows where no trained person is nearby.", "Critical CPR gap — less than 10% trained means most emergencies will have no immediate bystander response."],
+    fixes: [null, "WeRevive's Premium plan includes 2 training sessions per year covering up to 20 people.", "WeRevive's training sessions are designed to rapidly build CPR-capable coverage across staff and residents."]
+  },
+  {
+    cat: "Emergency Response Plan",
+    text: "Does your premises have a written, documented Cardiac Emergency Response Plan (CERP)?",
+    why: "A written CERP specifies exactly who calls emergency services, who retrieves the AED, who performs CPR, and how to direct the ambulance. Without it, every response is improvised — costing critical minutes.",
+    opts: ["Yes — written and communicated to staff","We have a general emergency plan but no cardiac-specific one","No written plan at all"],
+    scores: [2,1,0],
+    gaps: [null, "No cardiac-specific plan — general emergency plans don't cover the unique speed requirements of cardiac arrest response.", "No emergency plan — improvised response in a cardiac arrest event costs lives."],
+    fixes: [null, "WeRevive provides a standardised Cardiac Emergency Response Plan template with every deployment.", "WeRevive's onboarding includes a customised CERP for your specific premises layout."]
+  },
+  {
+    cat: "Emergency Response Plan",
+    text: "Has your premises conducted a cardiac emergency drill in the last 12 months?",
+    why: "Plans on paper fail under real panic. Drills build muscle memory. The 2025 AHA Guidelines emphasise that systems of care — not individual knowledge — determine survival outcomes. Regular drills are what turn a plan into a reliable response.",
+    opts: ["Yes — drill conducted in last 12 months","No drill ever conducted","We have a plan but haven't drilled it"],
+    scores: [2,0,1],
+    gaps: [null, "No drill conducted — a plan without practice fails under the stress of a real emergency.", "Plan not practiced — written plans have low effectiveness without rehearsal."],
+    fixes: [null, "WeRevive's Premium plan includes bi-annual on-site visits which can incorporate a basic response drill.", "WeRevive recommends annual drills and can facilitate them as part of training sessions."]
+  },
+  {
+    cat: "Device Maintenance",
+    text: "Have the AED electrode pads and battery been checked for expiry in the last 6 months?",
+    why: "Expired pads or a dead battery render an AED completely useless at the exact moment it is needed. A green status light does not confirm pad or battery expiry — only a manual check does. California mandates 90-day inspection cycles for deployed AEDs.",
+    opts: ["Yes — checked within last 6 months with records","Checked but no formal records kept","Not checked or unknown"],
+    scores: [2,1,0],
+    gaps: [null, "No maintenance records — without documentation, there is no proof of readiness and no legal protection in the event of an incident.", "Pads/battery status unknown — an unchecked AED may be non-functional. This is a critical risk."],
+    fixes: [null, "WeRevive's bi-annual maintenance visits include full inspection logging provided to the client.", "WeRevive takes full responsibility for pad and battery expiry monitoring across all plans."]
+  },
+  {
+    cat: "Device Maintenance",
+    text: "Is there a named, accountable person responsible for AED maintenance and readiness at your premises?",
+    why: "Without a named AED Program Coordinator, maintenance tasks fall to no one. Global best practices require a designated person — not a committee — who owns device readiness, training records, and incident documentation.",
+    opts: ["Yes — named person with defined responsibilities","Shared responsibility across team","No named person"],
+    scores: [2,1,0],
+    gaps: [null, "Shared responsibility — in practice, shared responsibility means no responsibility. Tasks fall through the gaps.", "No named owner — AED readiness requires a single accountable person to be effective."],
+    fixes: [null, "WeRevive acts as your external AED Program Manager — proactively monitoring, reminding, and visiting.", "WeRevive becomes your named cardiac safety partner — removing this burden from your team entirely."]
+  },
+  {
+    cat: "Device Intelligence",
+    text: "Does your AED cabinet have any alert system — alarm, notification, or monitoring — when the device is accessed or removed?",
+    why: "Smart cabinets notify facilities managers immediately when an AED is removed — whether for an emergency or theft. Without this, a device could be missing for days before anyone notices, creating an invisible risk.",
+    opts: ["Yes — alarmed or smart cabinet installed","Basic cabinet with no alert system","Device is wall-mounted with no cabinet"],
+    scores: [2,1,0],
+    gaps: [null, "No alert system — a removed or stolen AED may go unnoticed for days, leaving the premises unprotected.", "No cabinet — device is unprotected from tampering, theft, and environmental damage."],
+    fixes: [null, "WeRevive's Premium Plus plan includes smart cabinet monitoring with real-time alerts.", "WeRevive installs lockable alarmed cabinets as standard on Essential and Premium plans."]
+  },
+  {
+    cat: "Multi-Floor Coverage",
+    text: "If your premises has multiple floors, is there an AED on every floor — or within 90 seconds of every point?",
+    why: "The 90-second rule applies per floor. A single AED on the ground floor cannot cover a cardiac event on the 8th floor within 3 minutes — elevator wait times alone consume the entire window.",
+    opts: ["Yes — coverage meets 90-second rule per floor","One AED for the whole building regardless of floors","Single floor premises — not applicable"],
+    scores: [2,0,2],
+    gaps: [null, "Single AED for multi-floor building — a cardiac event on any floor other than the ground floor cannot be responded to within 3 minutes.", null],
+    fixes: [null, "WeRevive's Standard and Campus plans deploy multiple AEDs mapped to your floor plan to meet the 90-second rule.", null]
+  },
+  {
+    cat: "Awareness & Culture",
+    text: "Do all employees or residents know the exact location of the nearest AED to their regular workspace?",
+    why: "Awareness of device location is as critical as the device itself. Studies show that bystanders who know where the AED is act 40% faster. New staff and residents must be informed during onboarding — not just at annual training.",
+    opts: ["Yes — all staff/residents informed and reminded regularly","Most know, but new joiners may not","No — awareness is low or unknown"],
+    scores: [2,1,0],
+    gaps: [null, "Awareness gap for new joiners — cardiac arrest responders are as likely to be a new employee as a veteran. Everyone must know.", "Low AED awareness — the fastest device in the world is useless if nobody knows where it is."],
+    fixes: [null, "WeRevive provides QR-code emergency guides and signage that keep awareness current without ongoing effort.", "WeRevive's QR emergency guides and placement signage ensure awareness without relying on memory."]
+  },
+  {
+    cat: "Incident Readiness",
+    text: "If the AED were used today in a real emergency, does your team know exactly what to do in the 15 minutes after — including documentation, ambulance direction, and incident reporting?",
+    why: "Post-event response matters legally and medically. Proper incident documentation protects the organisation, helps the medical team, and is required for insurance and compliance purposes. Most premises have no post-event protocol.",
+    opts: ["Yes — clear post-event protocol exists","Partially — basic steps known but not documented","No post-event protocol"],
+    scores: [2,1,0],
+    gaps: [null, "Incomplete post-event protocol — undocumented procedures create legal exposure and reduce the quality of medical handover to paramedics.", "No post-event protocol — this creates significant legal and operational risk for the organisation."],
+    fixes: [null, "WeRevive provides an incident documentation template and post-event support as part of Premium plan.", "WeRevive's post-event documentation support is included in Essential and Premium plans."]
+  }
+];
+
+let current = 0;
+let answers = [];
+let totalScore = 0;
+let contactInfo = {};
+
+function showContactScreen(){
+  document.getElementById('intro').style.display='none';
+  document.getElementById('contact').style.display='block';
+}
+
+function validateAndStart(){
+  const name = document.getElementById('cName').value.trim();
+  const company = document.getElementById('cCompany').value.trim();
+  const email = document.getElementById('cEmail').value.trim();
+  const phone = document.getElementById('cPhone').value.trim();
+  const orgType = document.getElementById('cOrgType').value;
+
+  let valid = true;
+  const emailRe = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+  document.getElementById('errName').style.display = name ? 'none' : 'block';
+  if(!name) valid = false;
+
+  document.getElementById('errCompany').style.display = company ? 'none' : 'block';
+  if(!company) valid = false;
+
+  document.getElementById('errEmail').style.display = emailRe.test(email) ? 'none' : 'block';
+  if(!emailRe.test(email)) valid = false;
+
+  document.getElementById('errPhone').style.display = phone ? 'none' : 'block';
+  if(!phone) valid = false;
+
+  document.getElementById('errOrgType').style.display = orgType ? 'none' : 'block';
+  if(!orgType) valid = false;
+
+  if(!valid) return;
+
+  contactInfo = {name, company, email, phone, orgType};
+  document.getElementById('contact').style.display='none';
+  document.getElementById('quiz').style.display='block';
+  showQuestion(0);
+}
+
+function startQuiz(){
+  showContactScreen();
+}
+
+function showQuestion(i){
+  const q = QUESTIONS[i];
+  document.getElementById('qCount').textContent = `${i+1} / 15`;
+  document.getElementById('progressFill').style.width = `${((i)/15)*100}%`;
+  document.getElementById('qCat').textContent = q.cat;
+  document.getElementById('qText').textContent = q.text;
+  document.getElementById('qWhy').textContent = q.why;
+  const opts = document.getElementById('options');
+  opts.innerHTML = '';
+  q.opts.forEach((opt,j)=>{
+    const btn = document.createElement('button');
+    btn.className = 'opt-btn';
+    const icons = ['✓','✗','~'];
+    const classes = ['yes','no','partial'];
+    btn.innerHTML = `<span>${opt}</span>`;
+    btn.onclick = ()=>answer(i,j);
+    opts.appendChild(btn);
+  });
+}
+
+function answer(qIdx, optIdx){
+  const q = QUESTIONS[qIdx];
+  answers[qIdx] = optIdx;
+  totalScore += q.scores[optIdx];
+  current++;
+  if(current < 15){
+    document.getElementById('progressFill').style.width = `${((current)/15)*100}%`;
+    setTimeout(()=>showQuestion(current),150);
+  } else {
+    document.getElementById('quiz').style.display='none';
+    document.getElementById('submitting').style.display='block';
+    submitToWeRevive().then(()=>{
+      document.getElementById('submitting').style.display='none';
+      showResult();
+    });
+  }
+}
+
+function submitToWeRevive(){
+  let summary = `WeRevive Cardiac Readiness Audit Submission\n\n`;
+  summary += `Name: ${contactInfo.name}\n`;
+  summary += `Company / Society: ${contactInfo.company}\n`;
+  summary += `Email: ${contactInfo.email}\n`;
+  summary += `Phone: ${contactInfo.phone}\n`;
+  summary += `Organisation Type: ${contactInfo.orgType}\n`;
+  summary += `\nScore: ${totalScore} / 30\n\n`;
+  summary += `--- Question by Question ---\n`;
+  answers.forEach((optIdx, qIdx)=>{
+    const q = QUESTIONS[qIdx];
+    summary += `\n${qIdx+1}. [${q.cat}] ${q.text}\nAnswer: ${q.opts[optIdx]} (score: ${q.scores[optIdx]})\n`;
+  });
+
+  const formData = new FormData();
+  formData.append('_subject', `New AED Readiness Audit — ${contactInfo.company} (Score ${totalScore}/30)`);
+  formData.append('name', contactInfo.name);
+  formData.append('company', contactInfo.company);
+  formData.append('email', contactInfo.email);
+  formData.append('phone', contactInfo.phone);
+  formData.append('organisation_type', contactInfo.orgType);
+  formData.append('score', `${totalScore} / 30`);
+  formData.append('full_report', summary);
+
+  return fetch('https://formspree.io/f/xaqlqjen', {
+    method: 'POST',
+    body: formData,
+    headers: { 'Accept': 'application/json' }
+  }).catch(err=>{
+    console.error('Submission failed', err);
+  });
+}
+
+function showResult(){
+  document.getElementById('quiz').style.display='none';
+  document.getElementById('result').style.display='block';
+  const maxScore = 30;
+  const pct = Math.round((totalScore/maxScore)*100);
+
+  document.getElementById('scoreNum').textContent = totalScore;
+  document.getElementById('scoreDenom').textContent = '/ '+maxScore;
+
+  let label, sub, ringColor;
+  if(totalScore >= 26){
+    label = "Cardiac Ready ✓";
+    sub = "Your premises meets international AED readiness standards. Maintain this level with regular reviews and training refreshers.";
+    ringColor = "#1A6B3C";
+  } else if(totalScore >= 20){
+    label = "Good — Gaps Exist";
+    sub = "Your cardiac safety setup is above average but has identifiable gaps that reduce your real-world response effectiveness. These should be addressed within 30 days.";
+    ringColor = "#C17B00";
+  } else if(totalScore >= 12){
+    label = "Partially Prepared";
+    sub = "Your premises has some cardiac safety measures but significant gaps mean a real cardiac emergency would likely result in a delayed or failed response. Urgent action needed.";
+    ringColor = "#C17B00";
+  } else {
+    label = "Critical Risk";
+    sub = "Your premises is not prepared for a cardiac emergency. The gaps identified below represent a serious risk to life. Immediate action is required.";
+    ringColor = "#B22222";
+  }
+
+  document.getElementById('scoreLabel').textContent = label;
+  document.getElementById('scoreSub').textContent = sub;
+  document.getElementById('scoreRing').style.borderColor = ringColor;
+  document.getElementById('scoreNum').style.color = ringColor;
+
+  const gapsList = document.getElementById('gapsList');
+  const passList = document.getElementById('passList');
+  gapsList.innerHTML = '';
+  passList.innerHTML = '';
+
+  let gapCount = 0;
+  let passCount = 0;
+
+  answers.forEach((optIdx, qIdx)=>{
+    const q = QUESTIONS[qIdx];
+    const score = q.scores[optIdx];
+    if(score < 2 && q.gaps[optIdx]){
+      gapCount++;
+      const div = document.createElement('div');
+      div.className = 'gap-item';
+      div.innerHTML = `
+        <div class="gap-icon ${score===0?'red':'amber'}">${score===0?'✗':'~'}</div>
+        <div class="gap-text">
+          <b>${q.cat}: ${q.text.length > 60 ? q.text.substring(0,60)+'...' : q.text}</b>
+          ${q.gaps[optIdx]}
+          <div class="gap-fix">→ ${q.fixes[optIdx]}</div>
+        </div>`;
+      gapsList.appendChild(div);
+    } else if(score === 2){
+      passCount++;
+      const div = document.createElement('div');
+      div.className = 'pass-item';
+      div.innerHTML = `<span>✓</span><span>${q.cat} — ${q.opts[optIdx]}</span>`;
+      passList.appendChild(div);
+    }
+  });
+
+  if(gapCount === 0){
+    document.getElementById('gapsTitle').style.display='none';
+  } else {
+    document.getElementById('gapsTitle').textContent = `${gapCount} Gap${gapCount>1?'s':''} Found`;
+  }
+
+  if(passCount > 0){
+    const title = document.createElement('div');
+    title.className = 'gaps-title';
+    title.style.marginTop = '20px';
+    title.textContent = `${passCount} Area${passCount>1?'s':''} Passing`;
+    passList.insertBefore(title, passList.firstChild);
+  }
+}
+
+function restart(){
+  current = 0; answers = []; totalScore = 0; contactInfo = {};
+  document.getElementById('result').style.display='none';
+  document.getElementById('cName').value='';
+  document.getElementById('cCompany').value='';
+  document.getElementById('cEmail').value='';
+  document.getElementById('cPhone').value='';
+  document.getElementById('cOrgType').value='';
+  document.getElementById('intro').style.display='block';
+}
+</script>
+</body>
+</html>
